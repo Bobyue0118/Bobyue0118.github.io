@@ -67,15 +67,15 @@ For discussions or collaborations, feel free to drop me an email!
 
 
 # 🎖 Honors and Awards
-- *2017* / *2018* / *2019.12* Shanghai Jiao Tong University Zhiyuan Honors Program Scholarship
-- *2018.9* The Second Prize National Undergraduate Mathematical Contest in Modeling
-- *2018.10* The First Prize of Shanghai "Zhixing Cup" Social Practice Project Competition
-- *2018 / 2020.12* Shanghai Jiao Tong University B Class Scholarship
-- *2019.12* Shanghai Jiao Tong University C Class Scholarship
-- *2019.4* "Excellent League Member" of Shanghai Jiao Tong University
-- *2020.12* COSCO Shipping Scholarship of Shanghai Jiao Tong University
-- *2022 / 2023.11* Shanghai Jiao Tong University First-Class Graduate Academic Scholarship
 - *2023.11* COSCO Shipping Scholarship of Shanghai Jiao Tong University
+- *2022 / 2023.11* Shanghai Jiao Tong University First-Class Graduate Academic Scholarship
+- *2020.12* COSCO Shipping Scholarship of Shanghai Jiao Tong University
+- *2019.4* "Excellent League Member" of Shanghai Jiao Tong University
+- *2019.12* Shanghai Jiao Tong University C Class Scholarship
+- *2018 / 2020.12* Shanghai Jiao Tong University B Class Scholarship
+- *2018.10* The First Prize of Shanghai "Zhixing Cup" Social Practice Project Competition
+- *2018.9* The Second Prize National Undergraduate Mathematical Contest in Modeling
+- *2017* / *2018* / *2019.12* Shanghai Jiao Tong University Zhiyuan Honors Program Scholarship
 
 # 📖 Educations
 - *2024.04 - (now)*, The Chinese University of Hong Kong, Shenzhen, PhD. in Computer Science, Advisor: Prof. [Guiliang Liu](https://guiliang.me/).
