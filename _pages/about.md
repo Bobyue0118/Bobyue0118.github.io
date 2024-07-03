@@ -40,23 +40,23 @@ For discussions or collaborations, feel free to drop me an email!
 </div>
 </div>
 
-- Uncertainty-aware Preference Alignment in Reinforcement Learning from Human Feedback,
+- Uncertainty-aware Preference Alignment in Reinforcement Learning from Human Feedback
 
   Sheng Xu, **Bo Yue**, Hongyuan Zha, Guiliang Liu
 
-  ICML 2024 Workshop MHFAIA Poster
+  *ICML 2024 Workshop MHFAIA Poster*
   
-  [Paper](https://openreview.net/pdf?id=oVVg7lug1F), [Code (coming soon)]()  
+  [[Paper]](https://openreview.net/pdf?id=oVVg7lug1F), [[Code (coming soon)]]()  
 
 # 🎖 Honors and Awards
-- *2017* & *2018* & *2019.12* Shanghai Jiao Tong University Zhiyuan Honors Program Scholarship
+- *2017* / *2018* / *2019.12* Shanghai Jiao Tong University Zhiyuan Honors Program Scholarship
 - *2018.9* The Second Prize National Undergraduate Mathematical Contest in Modeling
 - *2018.10* The First Prize of Shanghai "Zhixing Cup" Social Practice Project Competition
 - *2018 & 2020.12* Shanghai Jiao Tong University B Class Scholarship
 - *2019.12* Shanghai Jiao Tong University C Class Scholarship
 - *2019.4* "Excellent League Member" of Shanghai Jiao Tong University
 - *2020.12* COSCO Shipping Scholarship of Shanghai Jiao Tong University
-- *2022 & 2023.11* Shanghai Jiao Tong University First-Class Graduate Academic Scholarship
+- *2022 / 2023.11* Shanghai Jiao Tong University First-Class Graduate Academic Scholarship
 - *2023.11* COSCO Shipping Scholarship of Shanghai Jiao Tong University
 
 # 📖 Educations
