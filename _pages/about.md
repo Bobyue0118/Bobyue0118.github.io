@@ -36,6 +36,22 @@ For discussions or collaborations, feel free to drop me an email!
   
   [[Paper]](https://openreview.net/pdf?id=oVVg7lug1F), [[Code (coming soon)]]()
 
+- Quantum Approximate Optimization Algorithm in Non-Markovian Quantum Systems
+
+  **Bo Yue**, Shibei Xue, Yu Pan, Min Jiang
+
+  *Physica Scripta, 98, 105104*
+  
+  [[Paper]](https://iopscience.iop.org/article/10.1088/1402-4896/acf6e8/pdf), [[Code (coming soon)]]()
+
+- Local to Global: A Distributed Quantum Approximate Optimization Algorithm for Pseudo-Boolean Optimization Problems
+
+  **Bo Yue**, Shibei Xue, Yu Pan, Min Jiang, Daoyi Dong
+
+  *arXiv preprint arXiv:2310.05062*
+  
+  [[Paper]](https://arxiv.org/pdf/2310.05062), [[Code (coming soon)]]()
+
 # 🚀 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Auto Charge</div><img src='images/project.gif' alt="sym" width="100%"></div></div>
