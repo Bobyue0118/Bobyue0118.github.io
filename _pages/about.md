@@ -56,3 +56,7 @@ My research interest includes Inverse Constrained Reinforcement Learning (ICRL),
 - *2024.04 - (now)*, The Chinese University of Hong Kong, Shenzhen, PhD. in Computer Science, Advisor: Prof. [Guiliang Liu](https://guiliang.me/).
 - *2021.09 - 2024.03*, Shanghai Jiao Tong University, M.Eng. in Automation, Advisor: Prof. [Shibei Xue](https://automation.sjtu.edu.cn/SXue).
 - *2017.09 - 2021.06*, Shanghai Jiao Tong University, B.Eng. in Automation.
+
+# 🧐 Miscellaneous
+- Member of [Zhiyuan Engineering Honors Program](https://en.zhiyuan.sjtu.edu.cn/) of Shanghai Jiao Tong University
+- Member of ["Rong Chang Talent Reserve Plan"](https://shrcpwf.com/) of Shanghai Jiao Tong University
