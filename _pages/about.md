@@ -28,25 +28,22 @@ For discussions or collaborations, feel free to drop me an email!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
 - Uncertainty-aware Preference Alignment in Reinforcement Learning from Human Feedback
 
   Sheng Xu, **Bo Yue**, Hongyuan Zha, Guiliang Liu
 
   *ICML 2024 Workshop MHFAIA Poster*
   
-  [[Paper]](https://openreview.net/pdf?id=oVVg7lug1F), [[Code (coming soon)]]()  
+  [[Paper]](https://openreview.net/pdf?id=oVVg7lug1F), [[Code (coming soon)]]()
+
+# 🚀 Projects
+
+- Research on EV Charging Port Detection and Pose Estimation based on Deep Learning Algorithms
+
+  Qilong Wu, **Bo Yue**, Xin Liu, Shibei Xue
+
+  *School Corporate Cooperation Project, 2022-2023*
+
 
 # 🎖 Honors and Awards
 - *2017* / *2018* / *2019.12* Shanghai Jiao Tong University Zhiyuan Honors Program Scholarship
