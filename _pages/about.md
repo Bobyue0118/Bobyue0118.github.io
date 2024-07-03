@@ -46,6 +46,8 @@ For discussions or collaborations, feel free to drop me an email!
 
   *School Corporate Cooperation Project with [Star Charge](https://www.wbstar.com/), 2022-2023*
 
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2017* / *2018* / *2019.12* Shanghai Jiao Tong University Zhiyuan Honors Program Scholarship
