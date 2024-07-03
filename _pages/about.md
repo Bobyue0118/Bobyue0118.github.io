@@ -42,10 +42,17 @@ My research interest includes Inverse Constrained Reinforcement Learning (ICRL),
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2017 \& 2018 \& 2019.12* Shanghai Jiao Tong University Zhiyuan Honors Program Scholarship
+- *2018.9* The Second Prize National Undergraduate Mathematical Contest in Modeling
+- *2018.10* The First Prize of Shanghai "Zhixing Cup" Social Practice Project Competition
+- *2018 \& 2020.12* Shanghai Jiao Tong University B Class Scholarship
+- *2019.12* Shanghai Jiao Tong University C Class Scholarship
+- *2019.4* "Excellent League Member" of Shanghai Jiao Tong University
+- *2020.12* COSCO Shipping Scholarship of Shanghai Jiao Tong University
+- *2022 \& 2023.11* Shanghai Jiao Tong University First-Class Graduate Academic Scholarship
+- *2023.11* COSCO Shipping Scholarship of Shanghai Jiao Tong University
 
 # 📖 Educations
-- *2024.04 - (now)*, The Chinese University of Hong Kong, Shenzhen, Advisor: Prof. [Guiliang Liu](https://guiliang.me/).
+- *2024.04 - (now)*, The Chinese University of Hong Kong, Shenzhen, PhD. in Computer Science, Advisor: Prof. [Guiliang Liu](https://guiliang.me/).
 - *2021.09 - 2024.03*, Shanghai Jiao Tong University, M.Eng. in Automation, Advisor: Prof. [Shibei Xue](https://automation.sjtu.edu.cn/SXue).
 - *2017.09 - 2021.06*, Shanghai Jiao Tong University, B.Eng. in Automation.
