@@ -78,9 +78,9 @@ For discussions or collaborations, feel free to drop me an email!
 - *2017* / *2018* / *2019.12* Shanghai Jiao Tong University Zhiyuan Honors Program Scholarship
 
 # 📖 Educations
-- *2024.09 - (now)*, The Chinese University of Hong Kong, Shenzhen, PhD. in Computer Science, Advisor: Prof. [Guiliang Liu](https://guiliang.me/).
-- *2021.09 - 2024.03*, Shanghai Jiao Tong University, M.Eng. in Automation, Advisor: Prof. [Shibei Xue](https://automation.sjtu.edu.cn/SXue).
-- *2017.09 - 2021.06*, Shanghai Jiao Tong University, B.Eng. in Automation (AI Direction).
+- *2024.09 - (now)* The Chinese University of Hong Kong, Shenzhen, PhD. in Computer Science, Advisor: Prof. [Guiliang Liu](https://guiliang.me/).
+- *2021.09 - 2024.03* Shanghai Jiao Tong University, M.Eng. in Automation, Advisor: Prof. [Shibei Xue](https://automation.sjtu.edu.cn/SXue).
+- *2017.09 - 2021.06* Shanghai Jiao Tong University, B.Eng. in Automation (AI Direction).
 
 # 🧐 Miscellaneous
 - Member of [Zhiyuan Engineering Honors Program](https://en.zhiyuan.sjtu.edu.cn/) of Shanghai Jiao Tong University
