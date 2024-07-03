@@ -21,6 +21,7 @@ I’m a first year PhD student at the School of Data Science, The Chinese Univer
 
 My research interest includes Inverse Constrained Reinforcement Learning (ICRL), Reinforcement Learning from Human Feedback (RLHF) and Embodied AI.
 
+For discussions or collaborations, feel free to drop me an email!
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉🎉 One paper was accepted to ICML 2024 Workshop MHFAIA.
@@ -42,7 +43,7 @@ My research interest includes Inverse Constrained Reinforcement Learning (ICRL),
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2017* & *2018* & *2019.12* Shanghai Jiao Tong University Zhiyuan Honors Program Scholarship
+- *2017* $&$ *2018* & *2019.12* Shanghai Jiao Tong University Zhiyuan Honors Program Scholarship
 - *2018.9* The Second Prize National Undergraduate Mathematical Contest in Modeling
 - *2018.10* The First Prize of Shanghai "Zhixing Cup" Social Practice Project Competition
 - *2018 & 2020.12* Shanghai Jiao Tong University B Class Scholarship
