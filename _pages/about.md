@@ -93,5 +93,5 @@ For discussions or collaborations, feel free to drop me an email!
     height: 300px; /* Set your desired height */
   }
 </style>
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2AEQhvsEmF_xjX8-SslDxxPtIHLUZqZ2DPUGECWWRs4"></script>
+<script type="text/javascript" id="clstr_globe" style = "global_container", src="//clustrmaps.com/globe.js?d=2AEQhvsEmF_xjX8-SslDxxPtIHLUZqZ2DPUGECWWRs4"></script>
 </div>
