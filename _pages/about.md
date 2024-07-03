@@ -89,8 +89,8 @@ For discussions or collaborations, feel free to drop me an email!
 <div id="globe-container">
 <style>
   #globe-container {
-    width: 300px; /* Set your desired width */
-    height: 300px; /* Set your desired height */
+    width: 200px; /* Set your desired width */
+    height: 200px; /* Set your desired height */
   }
 </style>
 <script type="text/javascript" id="clstr_globe" style = "global_container", src="//clustrmaps.com/globe.js?d=2AEQhvsEmF_xjX8-SslDxxPtIHLUZqZ2DPUGECWWRs4"></script>
