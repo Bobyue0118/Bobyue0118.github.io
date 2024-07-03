@@ -48,7 +48,7 @@ For discussions or collaborations, feel free to drop me an email!
 
   **Bo Yue**, Shibei Xue, Yu Pan, Min Jiang, Daoyi Dong
 
-  *arXiv preprint arXiv:2310.05062, 2023*
+  *arXiv preprint, arXiv:2310.05062, 2023*
   
   [[Paper]](https://arxiv.org/pdf/2310.05062), [[Code (coming soon)]]()
 
