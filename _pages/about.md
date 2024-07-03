@@ -40,7 +40,7 @@ For discussions or collaborations, feel free to drop me an email!
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Uncertainty-aware Preference Alignment in Reinforcement Learning from Human Feedback, [Paper](https://openreview.net/pdf?id=oVVg7lug1F), [Code (coming soon)]()  **ICML 2024 Workshop MHFAIA Poster**
 
 # 🎖 Honors and Awards
 - *2017* $&$ *2018* & *2019.12* Shanghai Jiao Tong University Zhiyuan Honors Program Scholarship
