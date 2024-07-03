@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a first year PhD student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), supervised by Prof. [Guiliang Liu](https://guiliang.me/). Before, I received both my B.Eng and M.Eng degrees at [the Department of Automation](https://automation.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).
+I’m a first year PhD student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), supervised by Prof. [Guiliang Liu](https://guiliang.me/). Before, I received both my B.Eng (2021) and M.Eng degrees (2024) at [the Department of Automation](https://automation.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).
 
 My research interest includes Inverse Constraint Inference (ICI) from expert demonstrations, Inverse Constrained Reinforcement Learning (ICRL), Reinforcement Learning from Human Feedback (RLHF) and Embodied AI.
 
