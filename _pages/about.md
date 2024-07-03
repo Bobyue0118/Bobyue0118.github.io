@@ -43,7 +43,7 @@ For discussions or collaborations, feel free to drop me an email!
 - Uncertainty-aware Preference Alignment in Reinforcement Learning from Human Feedback, [Paper](https://openreview.net/pdf?id=oVVg7lug1F), [Code (coming soon)]()  **ICML 2024 Workshop MHFAIA Poster**
 
 # 🎖 Honors and Awards
-- *2017* $&$ *2018* & *2019.12* Shanghai Jiao Tong University Zhiyuan Honors Program Scholarship
+- *2017* & *2018* & *2019.12* Shanghai Jiao Tong University Zhiyuan Honors Program Scholarship
 - *2018.9* The Second Prize National Undergraduate Mathematical Contest in Modeling
 - *2018.10* The First Prize of Shanghai "Zhixing Cup" Social Practice Project Competition
 - *2018 & 2020.12* Shanghai Jiao Tong University B Class Scholarship
