@@ -41,7 +41,7 @@ For discussions or collaborations, feel free to drop me an email!
   <div class='paper-box-image'>
     <div>
       <div class="badge">Auto Charge</div>
-      <img id="project-gif" src='images/project-still.png' alt="sym" width="100%" onclick="playGif()">
+      <img id="project-gif" src='images/project.gif' alt="sym" width="100%" onclick="playGif()">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
