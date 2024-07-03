@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a first year PhD student at the School of Data Science, The Chinese University of Hong Kong, Shenzhen (CUHK-SZ) supervised by Prof. [Guiliang Liu](https://guiliang.me/). Before, I received my both B.Eng and M.Eng degree at [the Department of Automation](https://automation.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).
+I’m a first year PhD student at the School of Data Science, The Chinese University of Hong Kong, Shenzhen (CUHK-SZ) supervised by Prof. [Guiliang Liu](https://guiliang.me/). Before, I received my both B.Eng and M.Eng degrees at [the Department of Automation](https://automation.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).
 
 My research interest includes Inverse Constrained Reinforcement Learning (ICRL), Reinforcement Learning from Human Feedback (RLHF) and Embodied AI.
 
