@@ -87,7 +87,7 @@ For discussions or collaborations, feel free to drop me an email!
 - Member of ["Rong Chang Talent Reserve Plan"](https://shrcpwf.com/) of Shanghai Jiao Tong University
 
 # 💻 Internships
-- *2023.09 - 2024.08* The Chinese University of Hong Kong, Shenzhen, PhD. in Computer Science, Advisor: Prof. [Guiliang Liu](https://guiliang.me/).
+- *2023.09 - 2024.08* The Chinese University of Hong Kong, Shenzhen, Advisor: Prof. [Guiliang Liu](https://guiliang.me/).
 
 <div id="globe-container">
 <style>
