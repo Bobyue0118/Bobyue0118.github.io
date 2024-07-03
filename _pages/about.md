@@ -37,28 +37,16 @@ For discussions or collaborations, feel free to drop me an email!
   [[Paper]](https://openreview.net/pdf?id=oVVg7lug1F), [[Code (coming soon)]]()
 
 # 🚀 Projects
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">Auto Charge</div>
-      <img id="project-gif" src='images/project.gif' alt="sym" width="100%" onclick="playGif()">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    - Research on EV Charging Port Detection and Pose Estimation based on Deep Learning Algorithms
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Auto Charge</div><img src='images/project.gif' alt="sym" width="100%"></div></div> <div class='paper-box-text' markdown="1">
 
-      Qilong Wu, **Bo Yue**, Xin Liu, Shibei Xue
+- Research on EV Charging Port Detection and Pose Estimation based on Deep Learning Algorithms
 
-      *School Corporate Cooperation Project with [Star Charge](https://www.wbstar.com/), 2022-2023*
-  </div>
-</div>
+  Qilong Wu, Bo Yue, Xin Liu, Shibei Xue
 
-<script>
-  function playGif() {
-    var image = document.getElementById('project-gif');
-    image.src = 'images/project.gif';
-  }
-</script>
+  *School Corporate Cooperation Project with [Star Charge](https://www.wbstar.com/)*, 2022-2023
+
+</div> </div>
+
 
 # 🎖 Honors and Awards
 - *2017* / *2018* / *2019.12* Shanghai Jiao Tong University Zhiyuan Honors Program Scholarship
