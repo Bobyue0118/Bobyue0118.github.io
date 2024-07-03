@@ -32,7 +32,7 @@ For discussions or collaborations, feel free to drop me an email!
 
   Sheng Xu, **Bo Yue**, Hongyuan Zha, Guiliang Liu
 
-  *ICML 2024 Workshop on Models of Human Feedback for AI Alignment (MHFAIA) Poster*
+  *ICML Workshop on Models of Human Feedback for AI Alignment (MHFAIA) Poster, 2024*
   
   [[Paper]](https://openreview.net/pdf?id=oVVg7lug1F), [[Code (coming soon)]]()
 
@@ -40,7 +40,7 @@ For discussions or collaborations, feel free to drop me an email!
 
   **Bo Yue**, Shibei Xue, Yu Pan, Min Jiang
 
-  *Physica Scripta, 98, 105104*
+  *Physica Scripta, 98, 105104, 2023*
   
   [[Paper]](https://iopscience.iop.org/article/10.1088/1402-4896/acf6e8/pdf), [[Code (coming soon)]]()
 
@@ -48,7 +48,7 @@ For discussions or collaborations, feel free to drop me an email!
 
   **Bo Yue**, Shibei Xue, Yu Pan, Min Jiang, Daoyi Dong
 
-  *arXiv preprint arXiv:2310.05062*
+  *arXiv preprint arXiv:2310.05062, 2023*
   
   [[Paper]](https://arxiv.org/pdf/2310.05062), [[Code (coming soon)]]()
 
