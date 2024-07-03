@@ -32,7 +32,7 @@ For discussions or collaborations, feel free to drop me an email!
 
   Sheng Xu, **Bo Yue**, Hongyuan Zha, Guiliang Liu
 
-  *ICML 2024 Workshop MHFAIA Poster*
+  *ICML 2024 Workshop on Models of Human Feedback for AI Alignment (MHFAIA) Poster*
   
   [[Paper]](https://openreview.net/pdf?id=oVVg7lug1F), [[Code (coming soon)]]()
 
