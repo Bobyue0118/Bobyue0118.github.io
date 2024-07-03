@@ -42,7 +42,7 @@ For discussions or collaborations, feel free to drop me an email!
 
   Qilong Wu, **Bo Yue**, Xin Liu, Shibei Xue
 
-  *School Corporate Cooperation Project with [WanBang Digital Energy Co. Ltd.](https://www.wbstar.com/), 2022-2023*
+  *School Corporate Cooperation Project with [Star Charge](https://www.wbstar.com/), 2022-2023*
 
 
 # 🎖 Honors and Awards
