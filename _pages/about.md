@@ -24,7 +24,7 @@ My research interest includes:
 - Inverse Constraint Inference (ICI) from expert demonstrations
 - Inverse Constrained Reinforcement Learning (ICRL)
 -  Reinforcement Learning from Human Feedback (RLHF)
--  Embodied AI.
+-  Embodied AI
 
 For discussions or collaborations, feel free to drop me an email!
 
