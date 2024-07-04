@@ -23,8 +23,8 @@ My research interest includes:
 
 - Inverse Constraint Inference (ICI) from expert demonstrations
 - Inverse Constrained Reinforcement Learning (ICRL)
--  Reinforcement Learning from Human Feedback (RLHF)
--  Embodied AI
+- Reinforcement Learning from Human Feedback (RLHF)
+- Embodied AI
 
 For discussions or collaborations, feel free to drop me an email!
 
@@ -84,7 +84,7 @@ For discussions or collaborations, feel free to drop me an email!
 
 # 📖 Educations
 - *2024.09 - (now)* The Chinese University of Hong Kong, Shenzhen, PhD. in Computer Science, Advisor: Prof. [Guiliang Liu](https://guiliang.me/)
-- *2021.09 - 2024.03* Shanghai Jiao Tong University, M.Eng. in Automation, Advisor: Prof. [Shibei Xue](https://automation.sjtu.edu.cn/SXue)
+- *2021.09 - 2024.03* Shanghai Jiao Tong University, M.Eng. in Automation (Recommended for Postgraduate Studies), Advisor: Prof. [Shibei Xue](https://automation.sjtu.edu.cn/SXue)
 - *2019.07 - 2019.08* The University of Washington, GECEP Summer Program
 - *2017.09 - 2021.06* Shanghai Jiao Tong University, B.Eng. in Automation (AI Direction)
 
