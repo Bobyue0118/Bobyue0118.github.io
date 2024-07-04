@@ -17,9 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a first year PhD student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), supervised by Prof. [Guiliang Liu](https://guiliang.me/). Before, I received both my B.Eng (2021) and M.Eng degrees (2024) at [the Department of Automation](https://automation.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).
+I’m currently a first year PhD student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), supervised by Prof. [Guiliang Liu](https://guiliang.me/). Before, I received both my B.Eng (2021) and M.Eng degrees (2024) at [the Department of Automation](https://automation.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).
 
-My research interest includes Inverse Constraint Inference (ICI) from expert demonstrations, Inverse Constrained Reinforcement Learning (ICRL), Reinforcement Learning from Human Feedback (RLHF) and Embodied AI.
+My research interest includes: 
+
+- Inverse Constraint Inference (ICI) from expert demonstrations
+- Inverse Constrained Reinforcement Learning (ICRL)
+-  Reinforcement Learning from Human Feedback (RLHF)
+-  Embodied AI.
 
 For discussions or collaborations, feel free to drop me an email!
 
@@ -89,12 +94,4 @@ For discussions or collaborations, feel free to drop me an email!
 # 💻 Internships
 - *2023.09 - 2024.08* The Chinese University of Hong Kong, Shenzhen, Advisor: Prof. [Guiliang Liu](https://guiliang.me/).
 
-<div id="globe-container">
-<style>
-  #globe-container {
-    width: 200px; /* Set your desired width */
-    height: 200px; /* Set your desired height */
-  }
-</style>
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2AEQhvsEmF_xjX8-SslDxxPtIHLUZqZ2DPUGECWWRs4"></script>
-</div>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=54idli5gvuy&amp;m=8&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
