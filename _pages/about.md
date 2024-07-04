@@ -45,15 +45,15 @@ For discussions or collaborations, feel free to drop me an email!
 
   **Bo Yue**, Shibei Xue, Yu Pan, Min Jiang
 
-- [Local to Global: A Distributed Quantum Approximate Optimization Algorithm for Pseudo-Boolean Optimization Problems](https://arxiv.org/pdf/2310.05062)  *arXiv preprint, arXiv:2310.05062, 2023*
+- [Local to Global: A Distributed Quantum Approximate Optimization Algorithm for Pseudo-Boolean Optimization Problems](https://arxiv.org/pdf/2310.05062)  *arXiv:2310.05062*
 
   **Bo Yue**, Shibei Xue, Yu Pan, Min Jiang, Daoyi Dong
 
-- [Accelerated Simulation of Master Equation for Open Quantum Systems](https://drive.google.com/file/d/1PcVvreEAnfriYOKFposPq9duvDwK5_1s/view) *42nd Chinese Control Conference(CCC), 6748-6753*
+- [Accelerated Simulation of Master Equation for Open Quantum Systems](https://drive.google.com/file/d/1PcVvreEAnfriYOKFposPq9duvDwK5_1s/view) *2023 Chinese Control Conference(CCC), 6748-6753*
 
   **Bo Yue**, Yanfang Wang, Shibei Xue
 
-- [Accelerated Simulation of Non-Markovian Quantum Systems Using Quantum Trajectory](https://drive.google.com/file/d/1IvzoX8jQmGAQiZ2cnRaajN6LlKELwTC9/view) *42nd Chinese Control Conference(CCC), 6754-6759*
+- [Accelerated Simulation of Non-Markovian Quantum Systems Using Quantum Trajectory](https://drive.google.com/file/d/1IvzoX8jQmGAQiZ2cnRaajN6LlKELwTC9/view) *2023 Chinese Control Conference(CCC), 6754-6759*
 
   Yanfang Wang, **Bo Yue**, Shibei Xue
 
