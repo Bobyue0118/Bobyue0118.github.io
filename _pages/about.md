@@ -88,12 +88,12 @@ For discussions or collaborations, feel free to drop me an email!
 - *2019.07 - 2019.08* The University of Washington, GECEP Summer Program
 - *2017.09 - 2021.06* Shanghai Jiao Tong University, B.Eng. in Automation (AI Direction)
 
+# 💻 Internships
+- *2023.09 - 2024.08* The Chinese University of Hong Kong, Shenzhen, Advisor: Prof. [Guiliang Liu](https://guiliang.me/).
+
 # 🧐 Miscellaneous
 - Member of [Zhiyuan Engineering Honors Program](https://en.zhiyuan.sjtu.edu.cn/) of Shanghai Jiao Tong University
 - Member of ["Rong Chang Talent Reserve Plan"](https://shrcpwf.com/) of Shanghai Jiao Tong University
-
-# 💻 Internships
-- *2023.09 - 2024.08* The Chinese University of Hong Kong, Shenzhen, Advisor: Prof. [Guiliang Liu](https://guiliang.me/).
 
 <div id="globe-container">
 <style>
