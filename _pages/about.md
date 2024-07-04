@@ -41,21 +41,21 @@ For discussions or collaborations, feel free to drop me an email!
   
   [[Paper]](https://openreview.net/pdf?id=oVVg7lug1F), [[Code (coming soon)]]()
 
-- Quantum Approximate Optimization Algorithm in Non-Markovian Quantum Systems
+- [Quantum Approximate Optimization Algorithm in Non-Markovian Quantum Systems](https://iopscience.iop.org/article/10.1088/1402-4896/acf6e8/pdf) *Physica Scripta, 98, 105104, 2023*
 
   **Bo Yue**, Shibei Xue, Yu Pan, Min Jiang
 
-  *Physica Scripta, 98, 105104, 2023*
-  
-  [[Paper]](https://iopscience.iop.org/article/10.1088/1402-4896/acf6e8/pdf), [[Code (coming soon)]]()
-
-- Local to Global: A Distributed Quantum Approximate Optimization Algorithm for Pseudo-Boolean Optimization Problems
+- [Local to Global: A Distributed Quantum Approximate Optimization Algorithm for Pseudo-Boolean Optimization Problems](https://arxiv.org/pdf/2310.05062)  *arXiv preprint, arXiv:2310.05062, 2023*
 
   **Bo Yue**, Shibei Xue, Yu Pan, Min Jiang, Daoyi Dong
 
-  *arXiv preprint, arXiv:2310.05062, 2023*
-  
-  [[Paper]](https://arxiv.org/pdf/2310.05062), [[Code (coming soon)]]()
+- [Accelerated Simulation of Master Equation for Open Quantum Systems](https://drive.google.com/file/d/1PcVvreEAnfriYOKFposPq9duvDwK5_1s/view) *42nd Chinese Control Conference(CCC), 6748-6753*
+
+  **Bo Yue**, Yanfang Wang, Shibei Xue
+
+- [Accelerated Simulation of Non-Markovian Quantum Systems Using Quantum Trajectory](https://drive.google.com/file/d/1IvzoX8jQmGAQiZ2cnRaajN6LlKELwTC9/view) *42nd Chinese Control Conference(CCC), 6754-6759*
+
+  Yanfang Wang, **Bo Yue**, Shibei Xue
 
 # 🚀 Projects
 
