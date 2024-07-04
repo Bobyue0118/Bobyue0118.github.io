@@ -71,7 +71,7 @@ For discussions or collaborations, feel free to drop me an email!
 </div> </div>
 
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2023.11* COSCO Shipping Scholarship of Shanghai Jiao Tong University
 - *2022 / 2023.11* Shanghai Jiao Tong University First-Class Graduate Academic Scholarship
 - *2020.12* COSCO Shipping Scholarship of Shanghai Jiao Tong University
