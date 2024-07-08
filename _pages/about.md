@@ -79,7 +79,7 @@ For discussions or collaborations, feel free to drop me an email!
 - *2019.12* Shanghai Jiao Tong University C Class Scholarship
 - *2018 / 2020.12* Shanghai Jiao Tong University B Class Scholarship
 - *2018.10* The First Prize of Shanghai "Zhixing Cup" Social Practice Project Competition
-- *2018.9* The Second Prize National Undergraduate Mathematical Contest in Modeling
+- *2018.9* The Second Prize of National Undergraduate Mathematical Contest in Modeling
 - *2017* / *2018* / *2019.12* Shanghai Jiao Tong University Zhiyuan Honors Program Scholarship
 
 # 📖 Educations
