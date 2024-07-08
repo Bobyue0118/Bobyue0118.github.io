@@ -75,11 +75,11 @@ For discussions or collaborations, feel free to drop me an email!
 - *2023.11* &nbsp; COSCO Shipping Scholarship of Shanghai Jiao Tong University
 - *2022 / 2023.11* &nbsp; Shanghai Jiao Tong University First-Class Graduate Academic Scholarship
 - *2020.12* &nbsp; COSCO Shipping Scholarship of Shanghai Jiao Tong University
-- *2019.4* &nbsp;"Excellent League Member" of Shanghai Jiao Tong University
+- *2019.04* &nbsp;"Excellent League Member" of Shanghai Jiao Tong University
 - *2019.12* &nbsp; Shanghai Jiao Tong University C Class Scholarship
 - *2018 / 2020.12* &nbsp; Shanghai Jiao Tong University B Class Scholarship
 - *2018.10* &nbsp; The First Prize of Shanghai "Zhixing Cup" Social Practice Project Competition
-- *2018.9* &nbsp; The Second Prize of National Undergraduate Mathematical Contest in Modeling
+- *2018.09* &nbsp; The Second Prize of National Undergraduate Mathematical Contest in Modeling
 - *2017* / *2018* / *2019.12* &nbsp; Shanghai Jiao Tong University Zhiyuan Honors Program Scholarship
 
 # 📖 Educations
