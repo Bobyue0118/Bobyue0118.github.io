@@ -72,24 +72,24 @@ For discussions or collaborations, feel free to drop me an email!
 
 
 # 🏅 Honors and Awards
-- *2023.11* &nbsp COSCO Shipping Scholarship of Shanghai Jiao Tong University
-- *2022 / 2023.11* &nbsp Shanghai Jiao Tong University First-Class Graduate Academic Scholarship
-- *2020.12* COSCO Shipping Scholarship of Shanghai Jiao Tong University
-- *2019.4* "Excellent League Member" of Shanghai Jiao Tong University
-- *2019.12* Shanghai Jiao Tong University C Class Scholarship
-- *2018 / 2020.12* Shanghai Jiao Tong University B Class Scholarship
-- *2018.10* The First Prize of Shanghai "Zhixing Cup" Social Practice Project Competition
-- *2018.9* The Second Prize of National Undergraduate Mathematical Contest in Modeling
-- *2017* / *2018* / *2019.12* Shanghai Jiao Tong University Zhiyuan Honors Program Scholarship
+- *2023.11* &nbsp; COSCO Shipping Scholarship of Shanghai Jiao Tong University
+- *2022 / 2023.11* &nbsp; Shanghai Jiao Tong University First-Class Graduate Academic Scholarship
+- *2020.12* &nbsp; COSCO Shipping Scholarship of Shanghai Jiao Tong University
+- *2019.4* &nbsp;"Excellent League Member" of Shanghai Jiao Tong University
+- *2019.12* &nbsp; Shanghai Jiao Tong University C Class Scholarship
+- *2018 / 2020.12* &nbsp; Shanghai Jiao Tong University B Class Scholarship
+- *2018.10* &nbsp; The First Prize of Shanghai "Zhixing Cup" Social Practice Project Competition
+- *2018.9* &nbsp; The Second Prize of National Undergraduate Mathematical Contest in Modeling
+- *2017* / *2018* / *2019.12* &nbsp; Shanghai Jiao Tong University Zhiyuan Honors Program Scholarship
 
 # 📖 Educations
-- *2024.09 - (now)* The Chinese University of Hong Kong, Shenzhen, PhD. in Computer Science, Advisor: Prof. [Guiliang Liu](https://guiliang.me/)
-- *2021.09 - 2024.03* Shanghai Jiao Tong University, M.Eng. in Automation (Recommended for Postgraduate Studies), Advisor: Prof. [Shibei Xue](https://automation.sjtu.edu.cn/SXue)
-- *2017.09 - 2021.06* Shanghai Jiao Tong University, B.Eng. in Automation (AI Direction)
+- *2024.09 - (now)* &nbsp; The Chinese University of Hong Kong, Shenzhen, PhD. in Computer Science, Advisor: Prof. [Guiliang Liu](https://guiliang.me/)
+- *2021.09 - 2024.03* &nbsp; Shanghai Jiao Tong University, M.Eng. in Automation (Recommended for Postgraduate Studies), Advisor: Prof. [Shibei Xue](https://automation.sjtu.edu.cn/SXue)
+- *2017.09 - 2021.06* &nbsp; Shanghai Jiao Tong University, B.Eng. in Automation (AI Direction)
 
 # 💻 Internships
-- *2023.09 - 2024.08* The Chinese University of Hong Kong, Shenzhen, Advisor: Prof. [Guiliang Liu](https://guiliang.me/)
-- *2019.07 - 2019.08* University of Washington, Seattle, USA, GECEP Summer Program
+- *2023.09 - 2024.08* &nbsp; The Chinese University of Hong Kong, Shenzhen, Advisor: Prof. [Guiliang Liu](https://guiliang.me/)
+- *2019.07 - 2019.08* &nbsp; University of Washington, Seattle, USA, GECEP Summer Program
 
 # 🧐 Miscellaneous
 - Member of [Zhiyuan Engineering Honors Program](https://en.zhiyuan.sjtu.edu.cn/) of Shanghai Jiao Tong University
