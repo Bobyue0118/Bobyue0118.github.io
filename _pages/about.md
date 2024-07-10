@@ -91,7 +91,7 @@ For discussions or collaborations, feel free to drop me an email!
 
 # 💻 Internships
 - *2023.09 - 2024.08* &nbsp; The Chinese University of Hong Kong, Shenzhen, Advisor: Prof. [Guiliang Liu](https://guiliang.me/)
-- *2019.07 - 2019.08* &nbsp; University of Washington, Seattle, USA, GECEP Summer Program
+- *2019.07 - 2019.08* &nbsp; [University of Washington](https://www.washington.edu/), Seattle, USA, GECEP Summer Program
 
 # 🧐 Miscellaneous
 - Member of [Zhiyuan Engineering Honors Program](https://en.zhiyuan.sjtu.edu.cn/) of Shanghai Jiao Tong University
