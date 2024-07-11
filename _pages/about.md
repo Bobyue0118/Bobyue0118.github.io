@@ -90,7 +90,7 @@ For discussions or collaborations, feel free to drop me an email!
 - *2017.09 - 2021.06* &nbsp; Shanghai Jiao Tong University, B.Eng. in Automation (AI Direction)
 
 # 💻 Internships
-- *2023.09 - 2024.08* &nbsp; The Chinese University of Hong Kong, Shenzhen, Advisor: Prof. [Guiliang Liu](https://guiliang.me/)
+- *2023.10 - 2024.08* &nbsp; The Chinese University of Hong Kong, Shenzhen, Advisor: Prof. [Guiliang Liu](https://guiliang.me/)
 - *2019.07 - 2019.08* &nbsp; [University of Washington](https://www.washington.edu/), Seattle, USA, GECEP Summer Program
 
 # 🧐 Miscellaneous
