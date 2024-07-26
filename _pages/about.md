@@ -29,7 +29,7 @@ My research interest includes:
 For discussions or collaborations, feel free to drop me an email!
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 One paper was accepted to ICML 2024 Workshop MHFAIA.
+- *2024.06*: &nbsp;🎉🎉 One paper was accepted to ICML 2024 Workshop MHFAIA
 
 # 📝 Publications 
 
