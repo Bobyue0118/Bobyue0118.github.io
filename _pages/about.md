@@ -21,7 +21,7 @@ Hi👋, I’m currently a first year PhD student at [the School of Data Science]
 
 My research interest includes:
 
-- Inverse Constraint Inference (ICI) from expert demonstrations
+- Inverse Constraint Inference (ICI) from Expert Demonstrations
 - Inverse Constrained Reinforcement Learning (ICRL)
 - Reinforcement Learning from Human Feedback (RLHF)
 - RL applications in Embodied AI
@@ -70,25 +70,19 @@ For discussions or collaborations, feel free to drop me an email!
 - *2023.11* &nbsp; COSCO Shipping Scholarship of Shanghai Jiao Tong University
 - *2022 / 2023.11* &nbsp; Shanghai Jiao Tong University First-Class Graduate Academic Scholarship
 - *2020.12* &nbsp; COSCO Shipping Scholarship of Shanghai Jiao Tong University
-- *2019.04* &nbsp;"Excellent League Member" of Shanghai Jiao Tong University
-- *2019.12* &nbsp; Shanghai Jiao Tong University C Class Scholarship
-- *2018 / 2020.12* &nbsp; Shanghai Jiao Tong University B Class Scholarship
-- *2018.10* &nbsp; The First Prize of Shanghai "Zhixing Cup" Social Practice Project Competition
 - *2018.09* &nbsp; The Second Prize of National Undergraduate Mathematical Contest in Modeling
 - *2017* / *2018* / *2019.12* &nbsp; Shanghai Jiao Tong University Zhiyuan Honors Program Scholarship
+
 
 # 📖 Educations
 - *2024.09 - (now)* &nbsp; The Chinese University of Hong Kong, Shenzhen, PhD. in Computer Science, Advisor: Prof. [Guiliang Liu](https://guiliang.me/)
 - *2021.09 - 2024.03* &nbsp; Shanghai Jiao Tong University, M.Eng. in Automation (Recommended for Postgraduate Studies), Advisor: Prof. [Shibei Xue](https://automation.sjtu.edu.cn/SXue)
 - *2017.09 - 2021.06* &nbsp; Shanghai Jiao Tong University, B.Eng. in Automation (AI Direction)
 
+
 # 💻 Internships
 - *2023.10 - 2024.08* &nbsp; The Chinese University of Hong Kong, Shenzhen, Advisor: Prof. [Guiliang Liu](https://guiliang.me/)
-- *2019.07 - 2019.08* &nbsp; [University of Washington](https://www.washington.edu/), Seattle, USA, GECEP Summer Program
 
-# 🧐 Miscellaneous
-- Member of [Zhiyuan Engineering Honors Program](https://en.zhiyuan.sjtu.edu.cn/) of Shanghai Jiao Tong University
-- Member of ["Rong Chang Talent Reserve Plan"](https://shrcpwf.com/) of Shanghai Jiao Tong University
 
 <div id="globe-container">
 <style>
