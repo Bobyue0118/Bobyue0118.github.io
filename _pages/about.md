@@ -29,17 +29,9 @@ My research interest includes:
 For discussions or collaborations, feel free to drop me an email!
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 One paper was accepted to ICML 2024 Workshop MHFAIA
+
 
 # 📝 Publications 
-
-- Uncertainty-aware Preference Alignment in Reinforcement Learning from Human Feedback
-
-  Sheng Xu, **Bo Yue**, Hongyuan Zha, Guiliang Liu
-
-  *ICML Workshop on Models of Human Feedback for AI Alignment (MHFAIA) Poster, 2024*
-  
-  [[Paper]](https://openreview.net/pdf?id=oVVg7lug1F), [[Code (coming soon)]]()
 
 - [Quantum Approximate Optimization Algorithm in Non-Markovian Quantum Systems](https://iopscience.iop.org/article/10.1088/1402-4896/acf6e8/pdf) *Physica Scripta, 98, 105104, 2023*
 
