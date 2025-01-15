@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi👋, I’m currently a first year PhD student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), supervised by Prof. [Guiliang Liu](https://guiliang.me/). Before, I received both my B.Eng (2021) and M.Eng degrees (2024) at [the Department of Automation](https://automation.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).
+Hi👋, I’m currently a first-year PhD student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), supervised by Prof. [Guiliang Liu](https://guiliang.me/). Before, I received both my B.Eng (2021) and M.Eng degrees (2024) at [the Department of Automation](https://automation.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).
 
 My research interest includes:
 
@@ -33,13 +33,13 @@ For discussions or collaborations, feel free to drop me an email!
 
 # 📝 Publications 
 
-- [Quantum Approximate Optimization Algorithm in Non-Markovian Quantum Systems](https://iopscience.iop.org/article/10.1088/1402-4896/acf6e8/pdf) *Physica Scripta, 98, 105104, 2023*
+<!-- - [Quantum Approximate Optimization Algorithm in Non-Markovian Quantum Systems](https://iopscience.iop.org/article/10.1088/1402-4896/acf6e8/pdf) *Physica Scripta, 98, 105104, 2023* -->
 
-- [Local to Global: A Distributed Quantum Approximate Optimization Algorithm for Pseudo-Boolean Optimization Problems](https://arxiv.org/pdf/2310.05062)  *arXiv:2310.05062*
+<!-- - [Local to Global: A Distributed Quantum Approximate Optimization Algorithm for Pseudo-Boolean Optimization Problems](https://arxiv.org/pdf/2310.05062)  *arXiv:2310.05062* -->
 
-- [Accelerated Simulation of Master Equation for Open Quantum Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10240232) *2023 Chinese Control Conference (CCC), 6748-6753*
+<!-- - [Accelerated Simulation of Master Equation for Open Quantum Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10240232) *2023 Chinese Control Conference (CCC), 6748-6753* -->
 
-- [Accelerated Simulation of Non-Markovian Quantum Systems Using Quantum Trajectory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10240942) *2023 Chinese Control Conference (CCC), 6754-6759*
+<!-- - [Accelerated Simulation of Non-Markovian Quantum Systems Using Quantum Trajectory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10240942) *2023 Chinese Control Conference (CCC), 6754-6759* -->
 
 
 # 🚀 Projects
