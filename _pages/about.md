@@ -21,10 +21,9 @@ Hi👋, I’m currently a first-year PhD student at [the School of Data Science]
 
 My research interest includes:
 
-- Inverse Constraint Inference (ICI) from Expert Demonstrations
-- Inverse Constrained Reinforcement Learning (ICRL)
-- Reinforcement Learning from Human Feedback (RLHF)
 - RL applications in Embodied AI
+- LLM Reasoning
+- Inverse Constrained Reinforcement Learning (ICRL)
 
 For discussions or collaborations, feel free to drop me an email!
 
