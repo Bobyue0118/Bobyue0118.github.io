@@ -67,7 +67,7 @@ For discussions or collaborations, feel free to drop me an email!
   *International Conference on Learning Representations (**ICLR**), 2025*
 
   <a href="https://openreview.net/pdf?id=0UvlnHgaii" target="_blank"> <img src="https://img.shields.io/badge/Paper-ICLR-blue"> </a>
-  <a href="https://github.com/Jasonxu1225/Awesome-Constraint-Inference-in-RL" target="_blank">
+  <a href="https://github.com/Bobyue0118/Constraint-Inference-in-Safe-IRL" target="_blank">
   <img src="https://img.shields.io/badge/Code-Github-red">
   </a>
   <img src="https://img.shields.io/github/stars/Bobyue0118/Constraint-Inference-in-Safe-IRL?color=success&logo=github">
