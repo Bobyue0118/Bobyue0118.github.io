@@ -62,7 +62,7 @@ For discussions or collaborations, feel free to drop me an email!
 
 - **Toward Exploratory Inverse Constraint Inference with Generative Diffusion Verifiers**
 
-  Runyi Zhao*, Sheng Xu*, **Bo Yue**, Guiliang Liu
+  Runyi Zhao\*, Sheng Xu\*, **Bo Yue**, Guiliang Liu
 
   *International Conference on Learning Representations (**ICLR**), 2025*
 
