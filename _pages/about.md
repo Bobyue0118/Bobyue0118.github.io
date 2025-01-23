@@ -50,27 +50,9 @@ For discussions or collaborations, feel free to drop me an email!
 
   *International Conference on Learning Representations (**ICLR**), 2025*
 
-<head>
-  <style>
-    a {
-      text-decoration: none;  /* Remove the underline */
-      border: none;           /* Remove the border if any */
-    }
-
-    img {
-      vertical-align: middle; /* Align images properly */
-    }
-  </style>
-</head>
-<body>
-  <a href="https://openreview.net/pdf?id=B2RXwASSpy" target="_blank">
-    <img src="https://img.shields.io/badge/Paper-ICLR-blue">
-  </a>
-  <a href="https://github.com/Bobyue0118/Constraint-Inference-in-Safe-IRL" target="_blank">
-    <img src="https://img.shields.io/badge/Code-Github-red">
-  </a>
+  <a href="https://openreview.net/pdf?id=B2RXwASSpy" target="_blank"> <img src="https://img.shields.io/badge/Paper-ICLR-blue"> </a>
+  <a href="https://github.com/Bobyue0118/Constraint-Inference-in-Safe-IRL" target="_blank"> <img src="https://img.shields.io/badge/Code-Github-red"> </a>
   <img src="https://img.shields.io/github/stars/Bobyue0118/Constraint-Inference-in-Safe-IRL?color=success&logo=github">
-</body>
 
 - **A Distributional Approach to Uncertainty-Aware Preference Alignment Using Offline Demonstrations**
 
