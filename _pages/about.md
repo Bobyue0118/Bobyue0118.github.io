@@ -28,6 +28,8 @@ My research interest includes:
 For discussions or collaborations, feel free to drop me an email!
 
 # 🔥 News
+- *2024.01* Three papers were accepted to ICLR 2025.
+
 
 
 # 📝 Publications 
@@ -39,6 +41,14 @@ For discussions or collaborations, feel free to drop me an email!
 <!-- - [Accelerated Simulation of Master Equation for Open Quantum Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10240232) *2023 Chinese Control Conference (CCC), 6748-6753* -->
 
 <!-- - [Accelerated Simulation of Non-Markovian Quantum Systems Using Quantum Trajectory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10240942) *2023 Chinese Control Conference (CCC), 6754-6759* -->
+
+- [Understanding Constraint Inference in Safety-Critical Inverse Reinforcement Learning](https://openreview.net/pdf?id=B2RXwASSpy)
+
+  **Bo Yue**, Shufan Wang, Ashish Gaurav, Jian Li, Pascal Poupart, Guiliang Liu
+
+  *International Conference on Learning Representations (**ICLR**), 2025*
+
+  <a href="https://openreview.net/pdf?id=RKOAU5ti1y" target="_blank"> <img src="https://img.shields.io/badge/Paper-ICLR-blue"> </a>
 
 
 # 🚀 Projects
