@@ -103,7 +103,7 @@ For discussions or collaborations, feel free to drop me an email!
 # 💻 Internships
 - *2023.10 - 2024.08* &nbsp; The Chinese University of Hong Kong, Shenzhen, Advisor: Prof. [Guiliang Liu](https://guiliang.me/)
 
-<!--
+
 <div id="globe-container">
 <style>
   #globe-container {
@@ -111,7 +111,7 @@ For discussions or collaborations, feel free to drop me an email!
     height: 200px; /* Set your desired height */
   }
 </style>
-
+<!--
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=59jot99u3ob&amp;m=8&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;rs=100&amp;as=10" async="async"></script>
 </div>
 -->
