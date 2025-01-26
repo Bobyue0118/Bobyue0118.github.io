@@ -107,8 +107,8 @@ For discussions or collaborations, feel free to drop me an email!
 <div id="globe-container">
 <style>
   #globe-container {
-    width: 220px; /* Set your desired width */
-    height: 220px; /* Set your desired height */
+    width: 175px; /* Set your desired width */
+    height: 175px; /* Set your desired height */
   }
 </style>
 <!--
@@ -116,4 +116,4 @@ For discussions or collaborations, feel free to drop me an email!
 </div>
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2AEQhvsEmF_xjX8-SslDxxPtIHLUZqZ2DPUGECWWRs4"></script>
   -->
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=350&t=tt&d=2AEQhvsEmF_xjX8-SslDxxPtIHLUZqZ2DPUGECWWRs4&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=2AEQhvsEmF_xjX8-SslDxxPtIHLUZqZ2DPUGECWWRs4&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
