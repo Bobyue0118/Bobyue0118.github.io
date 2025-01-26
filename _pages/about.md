@@ -36,14 +36,6 @@ For discussions or collaborations, feel free to drop me an email!
 
 <h3 class="sub-header animate-box" style="font-size: 12px; font-weight: 200; margin-bottom: 3px; padding-bottom: 3px">* indicates the equal contribution</h3>
 
-<!-- - [Quantum Approximate Optimization Algorithm in Non-Markovian Quantum Systems](https://iopscience.iop.org/article/10.1088/1402-4896/acf6e8/pdf) *Physica Scripta, 98, 105104, 2023* -->
-
-<!-- - [Local to Global: A Distributed Quantum Approximate Optimization Algorithm for Pseudo-Boolean Optimization Problems](https://arxiv.org/pdf/2310.05062)  *arXiv:2310.05062* -->
-
-<!-- - [Accelerated Simulation of Master Equation for Open Quantum Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10240232) *2023 Chinese Control Conference (CCC), 6748-6753* -->
-
-<!-- - [Accelerated Simulation of Non-Markovian Quantum Systems Using Quantum Trajectory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10240942) *2023 Chinese Control Conference (CCC), 6754-6759* -->
-
 - **Understanding Constraint Inference in Safety-Critical Inverse Reinforcement Learning**
 
   **Bo Yue**, Shufan Wang, Ashish Gaurav, Jian Li, Pascal Poupart, Guiliang Liu
@@ -70,7 +62,13 @@ For discussions or collaborations, feel free to drop me an email!
 
   <a href="https://openreview.net/pdf?id=0UvlnHgaii" target="_blank"> <img src="https://img.shields.io/badge/Paper-ICLR-blue"> </a>
   
+- [Quantum Approximate Optimization Algorithm in Non-Markovian Quantum Systems](https://iopscience.iop.org/article/10.1088/1402-4896/acf6e8/pdf) *Physica Scripta, 98, 105104, 2023* 
 
+- [Local to Global: A Distributed Quantum Approximate Optimization Algorithm for Pseudo-Boolean Optimization Problems](https://arxiv.org/pdf/2310.05062)  *arXiv:2310.05062* 
+
+- [Accelerated Simulation of Master Equation for Open Quantum Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10240232) *2023 Chinese Control Conference (CCC), 6748-6753* 
+
+- [Accelerated Simulation of Non-Markovian Quantum Systems Using Quantum Trajectory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10240942) *2023 Chinese Control Conference (CCC), 6754-6759* 
 
 # 🚀 Projects
 
