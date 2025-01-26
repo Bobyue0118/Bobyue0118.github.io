@@ -107,8 +107,8 @@ For discussions or collaborations, feel free to drop me an email!
 <div id="globe-container">
 <style>
   #globe-container {
-    width: 175px; /* Set your desired width */
-    height: 175px; /* Set your desired height */
+    width: 150px; /* Set your desired width */
+    height: 150px; /* Set your desired height */
   }
 </style>
 <!--
