@@ -77,7 +77,7 @@ For discussions or collaborations, feel free to drop me an email!
 
 - Research on EV Charging Port Detection and Pose Estimation
 
-  Qilong Wu, **Bo Yue**, Xin Liu, Shibei Xue
+  Qilong Wu\*, **Bo Yue**\*, Xin Liu, Shibei Xue
 
   *School Corporate Cooperation Project with [Star Charge](https://www.wbstar.com/)*, 2022.09-2023.12
 
