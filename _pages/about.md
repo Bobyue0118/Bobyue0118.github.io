@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi👋, I’m currently a first-year PhD. student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), supervised by Prof. [Guiliang Liu](https://guiliang.me/). Before that, I received both M.Eng degrees (2024) and B.Eng (2021) at [the Department of Automation](https://automation.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).
+Hi👋, I’m currently a first-year PhD student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), supervised by Prof. [Guiliang Liu](https://guiliang.me/). Before that, I received both M.Eng degrees (2024) and B.Eng (2021) at [the Department of Automation](https://automation.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).
 
 My research interest includes:
 
@@ -95,7 +95,7 @@ For discussions or collaborations, feel free to drop me an email!
 
 
 # 📖 Educations
-- *2024.09 - (now)* &nbsp; The Chinese University of Hong Kong, Shenzhen, PhD. in Computer Science, Advisor: Prof. [Guiliang Liu](https://guiliang.me/)
+- *2024.09 - (now)* &nbsp; The Chinese University of Hong Kong, Shenzhen, PhD in Computer Science, Advisor: Prof. [Guiliang Liu](https://guiliang.me/)
 - *2021.09 - 2024.03* &nbsp; Shanghai Jiao Tong University, M.Eng. in Automation (Recommended for Postgraduate Studies), Advisor: Prof. [Shibei Xue](https://automation.sjtu.edu.cn/SXue)
 - *2017.09 - 2021.06* &nbsp; Shanghai Jiao Tong University, B.Eng. in Automation (AI Direction)
 
