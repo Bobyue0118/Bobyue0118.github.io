@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi👋, I’m currently a first-year PhD student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), supervised by Prof. [Guiliang Liu](https://guiliang.me/). Before that, I received both M.Eng degrees (2024) and B.Eng (2021) at [the Department of Automation](https://automation.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).
+Hi👋, I’m currently a first-year PhD. student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), supervised by Prof. [Guiliang Liu](https://guiliang.me/). Before that, I received both M.Eng degrees (2024) and B.Eng (2021) at [the Department of Automation](https://automation.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).
 
 My research interest includes:
 
