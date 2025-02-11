@@ -75,7 +75,7 @@ For discussions or collaborations, feel free to drop me an email!
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Auto Charge</div><img src='images/project.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Research on EV Charging Port Detection and Pose Estimation
+- Research on EV Autonomous Charging with Monocular Camera
 
   Qilong Wu\*, **Bo Yue**\*, Xin Liu, Shibei Xue
 
