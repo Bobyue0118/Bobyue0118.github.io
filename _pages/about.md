@@ -104,10 +104,10 @@ For discussions or collaborations, feel free to drop me an email!
 - *2023.10 - 2024.08* &nbsp; The Chinese University of Hong Kong, Shenzhen, Advisor: Prof. [Guiliang Liu](https://guiliang.me/)
 
 # 👨‍🏫 Teaching Assistant
-- DDA2001 Introduction to Data Science: Spring 2024
+- DDA2001 Introduction to Data Science: Spring 2025
 
 # 🔍 Service
-- Conference Reviewer: ICLR 2024
+- Conference Reviewer: ICLR 2025
 
 
 <div id="globe-container">
