@@ -28,7 +28,7 @@ My research interest includes:
 For discussions or collaborations, feel free to drop me an email!
 
 # 🔥 News
-- *2025.01* Three papers were accepted to ICLR 2025.
+- *2025.01*  Three papers were accepted to ICLR 2025.
 
 
 
