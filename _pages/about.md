@@ -53,6 +53,8 @@ For discussions or collaborations, feel free to drop me an email!
   *International Conference on Learning Representations (**ICLR**), 2025*
 
   <a href="https://openreview.net/pdf?id=RKOAU5ti1y" target="_blank"> <img src="https://img.shields.io/badge/Paper-ICLR-blue"> </a>
+  <a href="https://github.com/Jasonxu1225/Uncertainty-aware-Preference-based-Reinforcement-Learning" target="_blank"> <img src="https://img.shields.io/badge/Code-Github-red"> </a>
+  <img src="https://img.shields.io/github/stars/Jasonxu1225/Uncertainty-aware-Preference-based-Reinforcement-Learning?color=success&logo=github">
 
 - **Toward Exploratory Inverse Constraint Inference with Generative Diffusion Verifiers**
 
@@ -61,6 +63,8 @@ For discussions or collaborations, feel free to drop me an email!
   *International Conference on Learning Representations (**ICLR**), 2025*
 
   <a href="https://openreview.net/pdf?id=0UvlnHgaii" target="_blank"> <img src="https://img.shields.io/badge/Paper-ICLR-blue"> </a>
+  <a href="https://github.com/ZhaoRunyi/ExICL" target="_blank"> <img src="https://img.shields.io/badge/Code-Github-red"> </a>
+  <img src="https://img.shields.io/github/stars/ZhaoRunyi/ExICL?color=success&logo=github">
   
 - [Quantum Approximate Optimization Algorithm in Non-Markovian Quantum Systems](https://iopscience.iop.org/article/10.1088/1402-4896/acf6e8/pdf) *Physica Scripta, 98, 105104, 2023* 
 
