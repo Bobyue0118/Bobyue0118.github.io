@@ -42,11 +42,13 @@ For discussions or collaborations, feel free to drop me an email!
 
   *International Conference on Learning Representations (**ICLR**), 2025*
   
-  <style>
+<style>
   a {
-    text-decoration: none; /* Removes the underline from anchor tags */
+    text-decoration: none !important; /* Removes underline */
+    display: inline-block; /* Prevents inline behavior */
+    border: none; /* Removes any border */
   }
-  </style>
+</style>
   <a href="https://openreview.net/pdf?id=B2RXwASSpy" target="_blank"> <img src="https://img.shields.io/badge/Paper-ICLR-blue"> </a>
   <a href="https://github.com/Bobyue0118/Constraint-Inference-in-Safe-IRL" target="_blank"> <img src="https://img.shields.io/badge/Code-Github-red"> </a>
   <img src="https://img.shields.io/github/stars/Bobyue0118/Constraint-Inference-in-Safe-IRL?color=success&logo=github">
