@@ -35,13 +35,6 @@ For discussions or collaborations, feel free to drop me an email!
 # 📝 Publications 
 
 <h3 class="sub-header animate-box" style="font-size: 12px; font-weight: 200; margin-bottom: 3px; padding-bottom: 3px">* indicates the equal contribution</h3>
-<style>
-  a {
-    text-decoration: none !important; /* Removes underline */
-    display: inline-block; /* Prevents inline behavior */
-    border: none; /* Removes any border */
-  }
-</style>
 
 - **Understanding Constraint Inference in Safety-Critical Inverse Reinforcement Learning**
 
