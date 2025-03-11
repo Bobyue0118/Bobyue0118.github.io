@@ -78,7 +78,7 @@ For discussions or collaborations, feel free to drop me an email!
   
 - **B. Yue**, S. Xue, Y. Pan, M. Jiang. [Quantum Approximate Optimization Algorithm in Non-Markovian Quantum Systems](https://iopscience.iop.org/article/10.1088/1402-4896/acf6e8/pdf). *Physica Scripta, 98, 105104, 2023*.
 
-- **B. Yue**, S. Xue, Y. Pan, M. Jiang, D. Dong. [Local to Global: A Distributed Quantum Approximate Optimization Algorithm for Pseudo-Boolean Optimization Problems](https://arxiv.org/pdf/2310.05062).  *arXiv:2310.05062*. 
+- **B. Yue**, S. Xue, Y. Pan, M. Jiang, D. Dong. [Local to Global: A Distributed Quantum Approximate Optimization Algorithm for Pseudo-Boolean Optimization Problems](https://arxiv.org/pdf/2310.05062). *arXiv:2310.05062*. 
 
 - **B. Yue**, Y. Wang, S. Xue. [Accelerated Simulation of Master Equation for Open Quantum Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10240232). *2023 Chinese Control Conference (CCC), 6748-6753*. 
 
