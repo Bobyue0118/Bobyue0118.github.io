@@ -51,8 +51,8 @@ For discussions or collaborations, feel free to drop me an email!
 
   <a href="https://openreview.net/pdf?id=B2RXwASSpy" target="_blank"> <img src="https://img.shields.io/badge/Paper-ICLR-blue"> </a>
   <a href="https://github.com/Bobyue0118/Constraint-Inference-in-Safe-IRL" target="_blank"> <img src="https://img.shields.io/badge/Code-Github-red"> </a>
-  <!-- <img src="https://img.shields.io/github/stars/Bobyue0118/Constraint-Inference-in-Safe-IRL?color=success&logo=github">
-  [![](https://img.shields.io/github/stars/Bobyue0118/Constraint-Inference-in-Safe-IRL?style=social&label=Stars)](https://img.shields.io/github/stars/Bobyue0118/Constraint-Inference-in-Safe-IRL) -->
+  <!-- <img src="https://img.shields.io/github/stars/Bobyue0118/Constraint-Inference-in-Safe-IRL?color=success&logo=github"> -->
+  [![](https://img.shields.io/github/stars/Bobyue0118/Constraint-Inference-in-Safe-IRL?style=social&label=Stars)](https://github.com/Bobyue0118/Constraint-Inference-in-Safe-IRL) 
 
 - **A Distributional Approach to Uncertainty-Aware Preference Alignment Using Offline Demonstrations**
 
