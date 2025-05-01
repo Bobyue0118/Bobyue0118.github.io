@@ -28,6 +28,7 @@ My research interest includes:
 For discussions or collaborations, feel free to drop me an email!
 
 # 🔥 News
+- *2025.05* &nbsp; One paper was accepted to ICML 2025.
 - *2025.01* &nbsp; Three papers were accepted to ICLR 2025.
 
 
@@ -41,6 +42,17 @@ For discussions or collaborations, feel free to drop me an email!
     text-decoration: none !important; /* Removes underline */
   }
 </style>
+
+- **Provably Efficient Exploration in Inverse Constrained Reinforcement Learning**
+
+  **Bo Yue**, Jian Li, Guiliang Liu
+
+  *International Conference on Machine Learning (**ICML**), 2025*
+
+  <a href="https://openreview.net/pdf?id=eLTPkGGHum" target="_blank"> <img src="https://img.shields.io/badge/Paper-ICML-blue"> </a>
+  <!-- <a href="https://github.com/Bobyue0118/Constraint-Inference-in-Safe-IRL" target="_blank"> <img src="https://img.shields.io/badge/Code-Github-red"> </a> -->
+  <!-- <img src="https://img.shields.io/github/stars/Bobyue0118/Constraint-Inference-in-Safe-IRL?color=success&logo=github"> -->
+  <!-- [![](https://img.shields.io/github/stars/Bobyue0118/Constraint-Inference-in-Safe-IRL?style=social&label=Stars)](https://github.com/Bobyue0118/Constraint-Inference-in-Safe-IRL) -->
 
 - **Understanding Constraint Inference in Safety-Critical Inverse Reinforcement Learning**
 
