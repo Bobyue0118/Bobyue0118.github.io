@@ -43,8 +43,7 @@ For discussions or collaborations, feel free to drop me an email!
   }
 </style>
 
-<details>
-  <summary><kbd>2025</kbd></summary>
+<summary><kbd>2025</kbd></summary>
 
 - **Provably Efficient Exploration in Inverse Constrained Reinforcement Learning**
 
@@ -90,10 +89,7 @@ For discussions or collaborations, feel free to drop me an email!
   <!-- <img src="https://img.shields.io/github/stars/ZhaoRunyi/ExICL?color=success&logo=github"> -->
   [![](https://img.shields.io/github/stars/ZhaoRunyi/ExICL?style=social&label=Stars)](https://github.com/ZhaoRunyi/ExICL) 
 
-</details>
-
-<details>
-  <summary><kbd>2023</kbd></summary>
+<summary><kbd>2023</kbd></summary>
 
 - **B. Yue**, S. Xue, Y. Pan, M. Jiang. [Quantum Approximate Optimization Algorithm in Non-Markovian Quantum Systems](https://iopscience.iop.org/article/10.1088/1402-4896/acf6e8/pdf). *Physica Scripta, 98, 105104, 2023*.
 
@@ -103,7 +99,6 @@ For discussions or collaborations, feel free to drop me an email!
 
 - Y. Wang, **B. Yue**, S. Xue. [Accelerated Simulation of Non-Markovian Quantum Systems Using Quantum Trajectory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10240942). *2023 Chinese Control Conference (CCC), 6754-6759*.
 
-</details>
 
 # 🚀 Projects
 
