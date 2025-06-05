@@ -73,7 +73,6 @@ For discussions or collaborations, feel free to drop me an email!
 
 
 # 🚀 Projects
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Auto Charge</div><img src='images/project.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
