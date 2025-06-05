@@ -51,7 +51,7 @@ For discussions or collaborations, feel free to drop me an email!
   *Sheng Xu, **<u>Bo Yue</u>**, Hongyuan Zha, Guiliang Liu*<br>
   *International Conference on Learning Representations*, 2025 (Tsinghua-A)<br>
 
-- <span class='paper-badge'>ICLR 2025</span> **Toward Exploratory Inverse Constraint Inference with Generative Diffusion Verifiers** <span class='paper-asset'><a href="https://openreview.net/pdf?id=0UvlnHgaii">PDF</a></span> <span class='paper-asset'><a href="https://github.com/ZhaoRunyi/ExICL">Code</a></span>[![](https://img.shields.io/github/stars/ZhaoRunyi/ExICL?style=social&label=Stars)](https://github.com/ZhaoRunyi/ExICL) <br>
+- <span class='paper-badge'>ICLR 2025</span> **Toward Exploratory Inverse Constraint Inference with Generative Diffusion Verifiers** <span class='paper-asset'><a href="https://openreview.net/pdf?id=0UvlnHgaii">PDF</a></span> <span class='paper-asset'><a href="https://github.com/ZhaoRunyi/ExICL">Code</a></span> [![](https://img.shields.io/github/stars/ZhaoRunyi/ExICL?style=social&label=Stars)](https://github.com/ZhaoRunyi/ExICL) <br>
   *Runyi Zhao\*, Sheng Xu\*, **<u>Bo Yue</u>**, Guiliang Liu*<br>
   *International Conference on Learning Representations*, 2025 (Tsinghua-A)<br>
 
