@@ -37,12 +37,6 @@ For discussions or collaborations, feel free to drop me an email!
 
 <h3 class="sub-header animate-box" style="font-size: 12px; font-weight: 200; margin-bottom: 3px; padding-bottom: 3px">* indicates the equal contribution</h3>
 
-<style>
-  a {
-    text-decoration: none !important; /* Removes underline */
-  }
-</style>
-
 <summary><kbd>2025</kbd></summary>
 
 - <span class='paper-badge'>ICML 2025</span> **Provably Efficient Exploration in Inverse Constrained Reinforcement Learning**
