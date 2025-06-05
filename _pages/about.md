@@ -43,41 +43,34 @@ For discussions or collaborations, feel free to drop me an email!
   ***<u>Bo Yue</u>**, Jian Li, Guiliang Liu*<br>
   *International Conference on Machine Learning*, 2025 (CCF-A)<br>
 
-- <span class='paper-badge'>ICLR 2025</span> **Understanding Constraint Inference in Safety-Critical Inverse Reinforcement Learning** <span class='paper-asset'><a href="https://openreview.net/pdf?id=B2RXwASSpy">PDF</a></span> <span class='paper-asset'><a href="https://github.com/Bobyue0118/Constraint-Inference-in-Safe-IRL">Code</a></span>[![](https://img.shields.io/github/stars/Bobyue0118/Constraint-Inference-in-Safe-IRL?style=social&label=Stars)](https://github.com/Bobyue0118/Constraint-Inference-in-Safe-IRL)<br>
+- <span class='paper-badge'>ICLR 2025</span> **Understanding Constraint Inference in Safety-Critical Inverse Reinforcement Learning** <span class='paper-asset'><a href="https://openreview.net/pdf?id=B2RXwASSpy">PDF</a></span> <span class='paper-asset'><a href="https://github.com/Bobyue0118/Constraint-Inference-in-Safe-IRL">Code</a></span> [![](https://img.shields.io/github/stars/Bobyue0118/Constraint-Inference-in-Safe-IRL?style=social&label=Stars)](https://github.com/Bobyue0118/Constraint-Inference-in-Safe-IRL)<br>
   ***<u>Bo Yue</u>**, Shufan Wang, Ashish Gaurav, Jian Li, Pascal Poupart, Guiliang Liu*<br>
   *International Conference on Learning Representations*, 2025 (Tsinghua-A)<br>
 
-- **A Distributional Approach to Uncertainty-Aware Preference Alignment Using Offline Demonstrations**
+- <span class='paper-badge'>ICLR 2025</span> **A Distributional Approach to Uncertainty-Aware Preference Alignment Using Offline Demonstrations** <span class='paper-asset'><a href="https://openreview.net/pdf?id=RKOAU5ti1y">PDF</a></span> <span class='paper-asset'><a href="https://github.com/Jasonxu1225/Uncertainty-aware-Preference-based-Reinforcement-Learning">Code</a></span> [![](https://img.shields.io/github/stars/Jasonxu1225/Uncertainty-aware-Preference-based-Reinforcement-Learning?style=social&label=Stars)](https://github.com/Jasonxu1225/Uncertainty-aware-Preference-based-Reinforcement-Learning)<br>
+  *Sheng Xu, **<u>Bo Yue</u>**, Hongyuan Zha, Guiliang Liu*<br>
+  *International Conference on Learning Representations*, 2025 (Tsinghua-A)<br>
 
-  Sheng Xu, **Bo Yue**, Hongyuan Zha, Guiliang Liu
-
-  *International Conference on Learning Representations (**ICLR**), 2025*
-
-  <a href="https://openreview.net/pdf?id=RKOAU5ti1y" target="_blank"> <img src="https://img.shields.io/badge/Paper-ICLR-blue"> </a>
-  <a href="https://github.com/Jasonxu1225/Uncertainty-aware-Preference-based-Reinforcement-Learning" target="_blank"> <img src="https://img.shields.io/badge/Code-Github-red"> </a>
-  <!-- <img src="https://img.shields.io/github/stars/Jasonxu1225/Uncertainty-aware-Preference-based-Reinforcement-Learning?color=success&logo=github"> -->
-  [![](https://img.shields.io/github/stars/Jasonxu1225/Uncertainty-aware-Preference-based-Reinforcement-Learning?style=social&label=Stars)](https://github.com/Jasonxu1225/Uncertainty-aware-Preference-based-Reinforcement-Learning) 
-
-- **Toward Exploratory Inverse Constraint Inference with Generative Diffusion Verifiers**
-
-  Runyi Zhao\*, Sheng Xu\*, **Bo Yue**, Guiliang Liu
-
-  *International Conference on Learning Representations (**ICLR**), 2025*
-
-  <a href="https://openreview.net/pdf?id=0UvlnHgaii" target="_blank"> <img src="https://img.shields.io/badge/Paper-ICLR-blue"> </a>
-  <a href="https://github.com/ZhaoRunyi/ExICL" target="_blank"> <img src="https://img.shields.io/badge/Code-Github-red"> </a>
-  <!-- <img src="https://img.shields.io/github/stars/ZhaoRunyi/ExICL?color=success&logo=github"> -->
-  [![](https://img.shields.io/github/stars/ZhaoRunyi/ExICL?style=social&label=Stars)](https://github.com/ZhaoRunyi/ExICL) 
+- <span class='paper-badge'>ICLR 2025</span> **Toward Exploratory Inverse Constraint Inference with Generative Diffusion Verifiers** <span class='paper-asset'><a href="https://openreview.net/pdf?id=0UvlnHgaii">PDF</a></span> <span class='paper-asset'><a href="https://github.com/ZhaoRunyi/ExICL">Code</a></span>[![](https://img.shields.io/github/stars/ZhaoRunyi/ExICL?style=social&label=Stars)](https://github.com/ZhaoRunyi/ExICL) <br>
+  *Runyi Zhao\*, Sheng Xu\*, **<u>Bo Yue</u>**, Guiliang Liu*<br>
+  *International Conference on Learning Representations*, 2025 (Tsinghua-A)<br>
 
 <summary><kbd>2023</kbd></summary>
 
-- **B. Yue**, S. Xue, Y. Pan, M. Jiang. [Quantum Approximate Optimization Algorithm in Non-Markovian Quantum Systems](https://iopscience.iop.org/article/10.1088/1402-4896/acf6e8/pdf). *Physica Scripta, 98, 105104, 2023*.
+- <span class='paper-badge'>Physica Scripta</span> **Quantum Approximate Optimization Algorithm in Non-Markovian Quantum Systems** <span class='paper-asset'><a href="https://iopscience.iop.org/article/10.1088/1402-4896/acf6e8/pdf">PDF</a></span><br>
+  ***<u>Bo Yue</u>**, Shibei Xue, Yu Pan, Min Jiang*<br>
+  *Physica Scripta, 98, 105104*, 2023 (JCR-Q2)<br>
 
-- **B. Yue**, S. Xue, Y. Pan, M. Jiang, D. Dong. [Local to Global: A Distributed Quantum Approximate Optimization Algorithm for Pseudo-Boolean Optimization Problems](https://arxiv.org/pdf/2310.05062). *arXiv:2310.05062*. 
+- <span class='paper-badge'>CCC 2023</span> **Accelerated Simulation of Master Equation for Open Quantum Systems** <span class='paper-asset'><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10240232">PDF</a></span><br> 
+  ***<u>Bo Yue</u>**, Yanfang Wang, Shibei Xue<br>
+  *Chinese Control Conference, 6748-6753*, 2023 (CAA-A)<br>
 
-- **B. Yue**, Y. Wang, S. Xue. [Accelerated Simulation of Master Equation for Open Quantum Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10240232). *2023 Chinese Control Conference (CCC), 6748-6753*. 
+- <span class='paper-badge'>CCC 2023</span> **Accelerated Simulation of Non-Markovian Quantum Systems Using Quantum Trajectory** <span class='paper-asset'><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10240942">PDF</a></span><br> 
+  *Yanfang Wang, **Bo Yue**, Shibei Xue*<br>
+  *Chinese Control Conference, 6754-6759*, 2023 (CAA-A)<br>
 
-- Y. Wang, **B. Yue**, S. Xue. [Accelerated Simulation of Non-Markovian Quantum Systems Using Quantum Trajectory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10240942). *2023 Chinese Control Conference (CCC), 6754-6759*.
+- <span class='paper-prebadge'>arXiv 2023</span> **Local to Global: A Distributed Quantum Approximate Optimization Algorithm for Pseudo-Boolean Optimization Problems** <span class='paper-asset'><a href="https://arxiv.org/pdf/2310.05062">PDF</a></span><br>
+  ***Bo Yue**, Shibei Xue, Yu Pan, Min Jiang, Daoyi Dong*<br>
 
 
 # 🚀 Projects
