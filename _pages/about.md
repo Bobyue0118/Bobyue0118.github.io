@@ -39,12 +39,9 @@ For discussions or collaborations, feel free to drop me an email!
 
 <summary><kbd>2025</kbd></summary>
 
-- <span class='paper-badge'>ICML 2025</span> **Provably Efficient Exploration in Inverse Constrained Reinforcement Learning**
-
-  **Bo Yue**, Jian Li, Guiliang Liu
-
-  *International Conference on Machine Learning, 2025 (CCF-A)*
-
+- <span class='paper-badge'>ICML 2025</span> **Provably Efficient Exploration in Inverse Constrained Reinforcement Learning**<br>
+  ***Bo Yue**, Jian Li, Guiliang Liu*<br>
+  *International Conference on Machine Learning*, 2025 (CCF-A)<br>
   <span class='paper-asset'><a href="https://openreview.net/pdf?id=eLTPkGGHum">PDF</a></span>
 
   <!-- <a href="https://openreview.net/pdf?id=eLTPkGGHum" target="_blank"> <img src="https://img.shields.io/badge/Paper-ICML-blue"> </a> -->
