@@ -78,9 +78,9 @@ For discussions or collaborations, feel free to drop me an email!
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Auto Charge</div><img src='images/project.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- Research on EV Autonomous Charging with Monocular Camera
+- **Research on EV Autonomous Charging with Monocular Camera**
 
-  Qilong Wu\*, **Bo Yue**\*, Xin Liu, Shibei Xue
+  *Qilong Wu\*, **<u>Bo Yue</u>**\*, Xin Liu, Shibei Xue*
 
   *School Corporate Cooperation Project with [Star Charge](https://www.wbstar.com/)*, 2022.09-2023.12
 
