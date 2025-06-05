@@ -129,9 +129,10 @@ For discussions or collaborations, feel free to drop me an email!
 - *2021.09 - 2024.03* &nbsp; Shanghai Jiao Tong University, M.Eng. in Automation (Recommended for Postgraduate Studies), Advisor: Prof. [Shibei Xue](https://automation.sjtu.edu.cn/SXue)
 - *2017.09 - 2021.06* &nbsp; Shanghai Jiao Tong University, B.Eng. in Automation (AI Direction)
 
-
+<!-- 
 # 💻 Internships
 - *2023.10 - 2024.08* &nbsp; The Chinese University of Hong Kong, Shenzhen, Advisor: Prof. [Guiliang Liu](https://guiliang.me/)
+-->
 
 # 👨‍🏫 Teaching
 - DDA2001 Introduction to Data Science: Teaching Assistant, Spring 2025
