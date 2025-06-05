@@ -66,11 +66,11 @@ For discussions or collaborations, feel free to drop me an email!
   *Chinese Control Conference, 6748-6753*, 2023 (CAA-A)<br>
 
 - <span class='paper-badge'>CCC 2023</span> **Accelerated Simulation of Non-Markovian Quantum Systems Using Quantum Trajectory** <span class='paper-asset'><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10240942">PDF</a></span><br> 
-  *Yanfang Wang, **Bo Yue**, Shibei Xue*<br>
+  *Yanfang Wang, **<u>Bo Yue</u>**, Shibei Xue*<br>
   *Chinese Control Conference, 6754-6759*, 2023 (CAA-A)<br>
 
 - <span class='paper-prebadge'>arXiv 2023</span> **Local to Global: A Distributed Quantum Approximate Optimization Algorithm for Pseudo-Boolean Optimization Problems** <span class='paper-asset'><a href="https://arxiv.org/pdf/2310.05062">PDF</a></span><br>
-  ***Bo Yue**, Shibei Xue, Yu Pan, Min Jiang, Daoyi Dong*<br>
+  ***<u>Bo Yue</u>**, Shibei Xue, Yu Pan, Min Jiang, Daoyi Dong*<br>
 
 
 # 🚀 Projects
