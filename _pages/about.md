@@ -45,13 +45,15 @@ For discussions or collaborations, feel free to drop me an email!
 
 <summary><kbd>2025</kbd></summary>
 
-- **Provably Efficient Exploration in Inverse Constrained Reinforcement Learning**
+- <span class='paper-badge'>ICML 2025</span> **Provably Efficient Exploration in Inverse Constrained Reinforcement Learning**
 
   **Bo Yue**, Jian Li, Guiliang Liu
 
-  *International Conference on Machine Learning (**ICML**), 2025*
+  *International Conference on Machine Learning, 2025 (CCF-A)*
 
-  <a href="https://openreview.net/pdf?id=eLTPkGGHum" target="_blank"> <img src="https://img.shields.io/badge/Paper-ICML-blue"> </a>
+  <span class='paper-asset'><a href="https://openreview.net/pdf?id=eLTPkGGHum">PDF</a></span>
+
+  <!-- <a href="https://openreview.net/pdf?id=eLTPkGGHum" target="_blank"> <img src="https://img.shields.io/badge/Paper-ICML-blue"> </a> -->
   <!-- <a href="https://github.com/Bobyue0118/Constraint-Inference-in-Safe-IRL" target="_blank"> <img src="https://img.shields.io/badge/Code-Github-red"> </a> -->
   <!-- <img src="https://img.shields.io/github/stars/Bobyue0118/Constraint-Inference-in-Safe-IRL?color=success&logo=github"> -->
   <!-- [![](https://img.shields.io/github/stars/Bobyue0118/Constraint-Inference-in-Safe-IRL?style=social&label=Stars)](https://github.com/Bobyue0118/Constraint-Inference-in-Safe-IRL) -->
