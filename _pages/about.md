@@ -61,7 +61,7 @@ For discussions or collaborations, feel free to drop me an email!
   *Physica Scripta, 98, 105104*, 2023 (JCR-Q2)<br>
 
 - <span class='paper-badge'>CCC 2023</span> **Accelerated Simulation of Master Equation for Open Quantum Systems** <span class='paper-asset'><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10240232">PDF</a></span><br> 
-  ***<u>Bo Yue</u>**, Yanfang Wang, Shibei Xue<br>
+  ***<u>Bo Yue</u>**, Yanfang Wang, Shibei Xue*<br>
   *Chinese Control Conference, 6748-6753*, 2023 (CAA-A)<br>
 
 - <span class='paper-badge'>CCC 2023</span> **Accelerated Simulation of Non-Markovian Quantum Systems Using Quantum Trajectory** <span class='paper-asset'><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10240942">PDF</a></span><br> 
