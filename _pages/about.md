@@ -20,17 +20,16 @@ redirect_from:
 Hi👋, I’m currently a first-year PhD student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), supervised by Prof. [Guiliang Liu](https://guiliang.me/). Before that, I received both M.Eng degrees (2024) and B.Eng (2021) at [the Department of Automation](https://automation.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).
 
 My research interest includes:
-
 - Robot Learning and Optimization in Embodied AI
 - Large Language Model Reasoning
 - Inverse Constrained Reinforcement Learning
 
 For discussions or collaborations, feel free to drop me an email!
 
+
 # 🔥 News
 - *2025.05* &nbsp; One paper was accepted to ICML 2025.
 - *2025.01* &nbsp; Three papers were accepted to ICLR 2025.
-
 
 
 # 📝 Publications 
@@ -109,6 +108,7 @@ For discussions or collaborations, feel free to drop me an email!
 
 # 👨‍🏫 Teaching
 - DDA2001 Introduction to Data Science: Teaching Assistant, Spring 2025
+
 
 # 🔍 Service
 - Conference Reviewer: ICLR 2025
