@@ -21,15 +21,15 @@ Hi👋, I’m currently a first-year PhD student at [the School of Data Science]
 
 My research interest includes:
 - Robot Learning and Optimization in Embodied AI
-- Large Language Model Reasoning
-- Inverse Constrained Reinforcement Learning
+- Embodied Large Language Model Reasoning
+- Inverse Constrained Reinforcement Learning / Inverse Constraint Learning
 
 For discussions or collaborations, feel free to drop me an email!
 
 
 # 🔥 News
-- *2025.05* &nbsp; One paper was accepted to ICML 2025.
-- *2025.01* &nbsp; Three papers were accepted to ICLR 2025.
+- *2025.05* &nbsp; 🎉🎉 One paper was accepted to **ICML 2025**.
+- *2025.01* &nbsp; 🎉🎉 Three papers were accepted to **ICLR 2025**.
 
 
 # 📝 Publications 
