@@ -36,7 +36,7 @@ For discussions or collaborations, feel free to drop me an email!
 
 <h3 class="sub-header animate-box" style="font-size: 12px; font-weight: 200; margin-bottom: 3px; padding-bottom: 3px">* indicates the equal contribution</h3>
 
-# 2025
+## 2025
 
 - <span class='paper-badge'>ICML 2025</span> **Provably Efficient Exploration in Inverse Constrained Reinforcement Learning** <span class='paper-asset'><a href="https://openreview.net/pdf?id=eLTPkGGHum">PDF</a></span><br>
   ***<u>Bo Yue</u>**, Jian Li, Guiliang Liu*<br>
@@ -54,7 +54,7 @@ For discussions or collaborations, feel free to drop me an email!
   *Runyi Zhao\*, Sheng Xu\*, **<u>Bo Yue</u>**, Guiliang Liu*<br>
   *International Conference on Learning Representations*, 2025 (Tsinghua-A)<br>
 
-# 2023
+## 2023
 
 - <span class='paper-badge'>Physica Scripta</span> **Quantum Approximate Optimization Algorithm in Non-Markovian Quantum Systems** <span class='paper-asset'><a href="https://iopscience.iop.org/article/10.1088/1402-4896/acf6e8/pdf">PDF</a></span><br>
   ***<u>Bo Yue</u>**, Shibei Xue, Yu Pan, Min Jiang*<br>
