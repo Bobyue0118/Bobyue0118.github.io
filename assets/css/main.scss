@@ -140,8 +140,8 @@ h1:before, .anchor:before {
 /* remove underline and any theme border on this specific link */
 a.no-underline,
 a.no-underline:visited {
-  text-decoration: none;
-  border-bottom: none;
+  text-decoration: none !important;
+  border-bottom: none !important;
 }
 
 a.no-underline:hover,
@@ -149,3 +149,5 @@ a.no-underline:focus {
   text-decoration: underline;   /* optional: show only on hover */
   border-bottom: none;
 }
+
+
