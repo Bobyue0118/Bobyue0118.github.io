@@ -24,7 +24,7 @@ My research interest includes:
 - Embodied Large Language Model Reasoning
 - [Inverse Constrained Reinforcement Learning](https://github.com/Jasonxu1225/Awesome-Constraint-Inference-in-RL) / Inverse Constraint Learning
 
-For discussions or collaborations, feel free to drop me an email!
+I'm always open to collaboration or a good discussion — feel free to contact me via Email or [WeChat](/images/Wechat_ID.jpg)!
 
 
 # 🔥 News
