@@ -136,3 +136,16 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* remove underline and any theme border on this specific link */
+a.no-underline,
+a.no-underline:visited {
+  text-decoration: none;
+  border-bottom: none;
+}
+
+a.no-underline:hover,
+a.no-underline:focus {
+  text-decoration: underline;   /* optional: show only on hover */
+  border-bottom: none;
+}
