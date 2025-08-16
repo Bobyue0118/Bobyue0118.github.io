@@ -180,3 +180,13 @@ main a:focus {
   text-decoration: underline !important;
   border-bottom: none !important;
 }
+
+/* Override any theme styles */
+.page__content a:not(.no-underline) {
+  text-decoration: none !important;
+}
+
+.page__content a:not(.no-underline):hover,
+.page__content a:not(.no-underline):visited {
+  text-decoration: underline !important;
+}
