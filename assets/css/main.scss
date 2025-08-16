@@ -136,3 +136,28 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* Remove underlines from all links */
+a {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+a:visited {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+a:hover,
+a:focus {
+  text-decoration: none !important;  /* Keep no underline on hover too */
+  border-bottom: none !important;
+}
+
+/* Specifically target content area links */
+.page__content a,
+.page__inner-wrap a,
+main a {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
