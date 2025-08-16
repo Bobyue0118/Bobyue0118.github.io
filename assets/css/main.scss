@@ -137,68 +137,15 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-/* Remove underlines from all links in default state */
+/* Link styles - clean and consolidated */
 a {
   text-decoration: none !important;
   border-bottom: none !important;
 }
 
-/* Show underline for visited links */
-a:visited {
-  text-decoration: underline !important;
-  border-bottom: none !important;
-}
-
-/* Show underline on hover and focus */
 a:hover,
-a:focus {
-  text-decoration: underline !important;
-  border-bottom: none !important;
-}
-
-/* Specifically target content area links */
-.page__content a,
-.page__inner-wrap a,
-main a {
-  text-decoration: none !important;
-  border-bottom: none !important;
-}
-
-.page__content a:visited,
-.page__inner-wrap a:visited,
-main a:visited {
-  text-decoration: underline !important;
-  border-bottom: none !important;
-}
-
-.page__content a:hover,
-.page__inner-wrap a:hover,
-main a:hover,
-.page__content a:focus,
-.page__inner-wrap a:focus,
-main a:focus {
-  text-decoration: underline !important;
-  border-bottom: none !important;
-}
-
-/* Override any theme styles */
-.page__content a:not(.no-underline) {
-  text-decoration: none !important;
-}
-
-.page__content a:not(.no-underline):hover,
-.page__content a:not(.no-underline):visited {
-  text-decoration: underline !important;
-}
-
-/* Force override all link styles */
-* a:hover,
-* a:focus {
-  text-decoration: underline !important;
-  border-bottom: none !important;
-}
-
-* a:visited {
+a:focus,
+a:visited {
   text-decoration: underline !important;
   border-bottom: none !important;
 }
