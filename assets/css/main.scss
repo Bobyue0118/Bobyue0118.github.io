@@ -137,20 +137,22 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-/* Remove underlines from all links */
+/* Remove underlines from all links in default state */
 a {
   text-decoration: none !important;
   border-bottom: none !important;
 }
 
+/* Show underline for visited links */
 a:visited {
-  text-decoration: none !important;
+  text-decoration: underline !important;
   border-bottom: none !important;
 }
 
+/* Show underline on hover and focus */
 a:hover,
 a:focus {
-  text-decoration: none !important;  /* Keep no underline on hover too */
+  text-decoration: underline !important;
   border-bottom: none !important;
 }
 
@@ -159,5 +161,22 @@ a:focus {
 .page__inner-wrap a,
 main a {
   text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+.page__content a:visited,
+.page__inner-wrap a:visited,
+main a:visited {
+  text-decoration: underline !important;
+  border-bottom: none !important;
+}
+
+.page__content a:hover,
+.page__inner-wrap a:hover,
+main a:hover,
+.page__content a:focus,
+.page__inner-wrap a:focus,
+main a:focus {
+  text-decoration: underline !important;
   border-bottom: none !important;
 }
