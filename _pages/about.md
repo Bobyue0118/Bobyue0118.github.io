@@ -22,7 +22,7 @@ Hi👋, I’m currently a first-year PhD student at [the School of Data Science]
 My research interest includes:
 - Robot Learning and Optimization in Embodied AI
 - Embodied Large Language Model Reasoning
-- Inverse Constrained Reinforcement Learning / Inverse Constraint Learning
+- [Inverse Constrained Reinforcement Learning](https://github.com/Jasonxu1225/Awesome-Constraint-Inference-in-RL) / Inverse Constraint Learning
 
 For discussions or collaborations, feel free to drop me an email!
 
