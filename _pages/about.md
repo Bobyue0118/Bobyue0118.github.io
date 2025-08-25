@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi👋, I’m currently a first-year PhD student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), supervised by Prof. [Guiliang Liu](https://guiliang.me/). Before that, I received both M.Eng degrees (2024) and B.Eng (2021) at [the Department of Automation](https://automation.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).
+Hi👋, I’m currently a second-year PhD student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), supervised by Prof. [Guiliang Liu](https://guiliang.me/). Before that, I received both M.Eng degrees (2024) and B.Eng (2021) at [the Department of Automation](https://automation.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).
 
 My research interest includes:
 - Robot Learning and Optimization in Embodied AI
@@ -78,7 +78,7 @@ I'm always open to collaboration or a good discussion — feel free to contact m
 
 
 # 🚀 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Auto Charge</div><img src='images/project.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EV Auto Charge</div><img src='images/project.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Research on EV Autonomous Charging with Monocular Camera**
@@ -112,6 +112,7 @@ I'm always open to collaboration or a good discussion — feel free to contact m
 
 # 👨‍🏫 Teaching
 - DDA2001 Introduction to Data Science: Teaching Assistant, Spring 2025
+- DDA4230 Reinforcement Learning, Fall 2025
 
 
 # 🔍 Service
