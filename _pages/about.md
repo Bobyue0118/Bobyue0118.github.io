@@ -116,7 +116,7 @@ I'm always open to collaboration or a good discussion — feel free to contact m
 
 
 # 🔍 Service
-- Conference Reviewer: ICLR 2025
+- Conference Reviewer: AAAI 2025, ICLR 2025, ICML 2025, ICRA 2026
 
 
 <div id="globe-container">
