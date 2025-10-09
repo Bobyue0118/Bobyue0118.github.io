@@ -112,7 +112,7 @@ I'm always open to collaboration or a good discussion — feel free to contact m
 
 # 👨‍🏫 Teaching
 - DDA2001 Introduction to Data Science: Teaching Assistant, Spring 2025
-- DDA4230 Reinforcement Learning, Teaching Assistant, Fall 2025
+- DDA4230 Reinforcement Learning, Leading Teaching Assistant, Fall 2025
 
 
 # 🔍 Service
