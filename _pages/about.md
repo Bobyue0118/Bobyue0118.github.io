@@ -47,7 +47,7 @@ I'm always open to collaboration or a good discussion — feel free to contact m
 - <span class='paper-badge'>ICLR 2025</span> **Understanding Constraint Inference in Safety-Critical Inverse Reinforcement Learning** 
 <span class='paper-asset'><a href="https://openreview.net/pdf?id=B2RXwASSpy">PDF</a></span>
 <span class='paper-asset'> <a href="/posters/ICLR2025Poster.pdf">Poster</a></span>
-<span class='paper-asset'><a href="https://github.com/Bobyue0118/Constraint-Inference-in-Safe-IRL">Code</a></span> [![](https://img.shields.io/github/stars/Bobyue0118/Constraint-Inference-in-Safe-IRL?style=social&label=Stars)](https://github.com/Bobyue0118/Constraint-Inference-in-Safe-IRL)<br>
+<span class='paper-asset'><a href="https://github.com/Bobyue0118/Constraint-Inference-in-Safe-IRL">Code</a></span> [![](https://img.shields.io/github/stars/Bobyue0118/Constraint-Inference-in-Safe-IRL)](https://github.com/Bobyue0118/Constraint-Inference-in-Safe-IRL)<br>
   ***<u>Bo Yue</u>**, Shufan Wang, Ashish Gaurav, Jian Li, Pascal Poupart, Guiliang Liu*<br>
   *International Conference on Learning Representations*, 2025 (Tsinghua-A)<br>
 
