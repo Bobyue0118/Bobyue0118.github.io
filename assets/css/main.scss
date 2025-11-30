@@ -138,6 +138,19 @@ h1:before, .anchor:before {
 }
 
 /* Link styles - clean and consolidated */
+// a {
+//   text-decoration: none !important;
+//   border-bottom: none !important;
+// }
+
+// a:hover,
+// a:focus,
+// a:visited {
+//   text-decoration: underline !important;
+//   border-bottom: none !important;
+// }
+
+/* Link styles - clean and consolidated */
 a {
   text-decoration: none !important;
   border-bottom: none !important;
@@ -148,4 +161,39 @@ a:focus,
 a:visited {
   text-decoration: underline !important;
   border-bottom: none !important;
+}
+
+/* Override navigation link styles - remove thin underline, keep thick underline */
+.masthead a,
+.masthead__inner-wrap a,
+.greedy-nav a {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+.masthead a:hover,
+.masthead a:focus,
+.masthead a:visited,
+.greedy-nav a:hover,
+.greedy-nav a:focus,
+.greedy-nav a:visited {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+/* Ensure the :before pseudo-element (thick underline) still works */
+.greedy-nav .visible-links a:before {
+  content: "" !important;
+  position: absolute !important;
+  left: 0 !important;
+  bottom: 0 !important;
+  height: 4px !important;
+  background: mix(#fff, $primary-color, 50%) !important;
+  width: 100% !important;
+  transition: $global-transition !important;
+  transform: scaleX(0) !important;
+}
+
+.greedy-nav .visible-links a:hover:before {
+  transform: scaleX(1) !important;
 }
