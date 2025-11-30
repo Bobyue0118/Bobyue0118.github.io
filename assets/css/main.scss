@@ -138,6 +138,18 @@ h1:before, .anchor:before {
 }
 
 /* Link styles - clean and consolidated */
+// a {
+//   text-decoration: none !important;
+//   border-bottom: none !important;
+// }
+
+// a:hover,
+// a:focus,
+// a:visited {
+//   text-decoration: underline !important;
+//   border-bottom: none !important;
+// }
+/* Link styles - clean and consolidated */
 a {
   text-decoration: none !important;
   border-bottom: none !important;
@@ -147,5 +159,36 @@ a:hover,
 a:focus,
 a:visited {
   text-decoration: underline !important;
+  border-bottom: none !important;
+}
+
+/* Remove ALL underlines for navigation/caption links in default state */
+.masthead a,
+.greedy-nav a,
+.site-title,
+.site-nav a,
+.masthead__inner-wrap a,
+nav a {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+/* Show only thick underline on hover for navigation */
+.masthead a:hover,
+.greedy-nav a:hover,
+.site-title:hover,
+.site-nav a:hover,
+.masthead__inner-wrap a:hover,
+nav a:hover {
+  text-decoration: underline !important;
+  border-bottom: none !important;
+}
+
+/* Remove visited underline for navigation */
+.masthead a:visited,
+.greedy-nav a:visited,
+.site-nav a:visited,
+nav a:visited {
+  text-decoration: none !important;
   border-bottom: none !important;
 }
