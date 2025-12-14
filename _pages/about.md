@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi👋, I’m currently a second-year PhD student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), supervised by Prof. [Guiliang Liu](https://guiliang.me/). Before that, I received both M.Eng degrees (2024) and B.Eng (2021) at [the Department of Automation](https://automation.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/).
+Hi👋, I’m currently a second-year PhD student at [the School of Data Science](https://sds.cuhk.edu.cn/en), [The Chinese University of Hong Kong, Shenzhen (CUHK-SZ)](https://www.cuhk.edu.cn/en), supervised by Prof. [Guiliang Liu](https://guiliang.me/). Before that, I received both M.Eng degrees (2024) and B.Eng (2021) at [the Department of Automation](https://automation.sjtu.edu.cn/), [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). 
+
+My work has been published in top-tier international AI conferences such as ICLR and ICML. I am driven to advance robotic intelligence toward offloading mundane, time-consuming human tasks to robots—such as household chores and information collection—so that humans can focus on more creative, meaningful, and high-impact activities.
 
 My research interest includes:
 - Robot Learning and Optimization in Embodied AI
-- Embodied Large Language Model Reasoning
 - [Inverse Constrained Reinforcement Learning](https://github.com/Jasonxu1225/Awesome-Constraint-Inference-in-RL) / Inverse Constraint Learning
 
 I'm always open to collaboration or a good discussion — feel free to contact me via Email or [WeChat](/images/Wechat_ID.jpg)!
@@ -116,7 +117,7 @@ I'm always open to collaboration or a good discussion — feel free to contact m
 
 
 # 🔍 Service
-- Conference Reviewer: AAAI 2025, ICLR 2025, ICML 2025, ICRA 2026
+- Conference Reviewer: AAAI, ICLR, ICML, ICRA
 
 
 <div id="globe-container">
