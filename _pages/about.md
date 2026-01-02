@@ -22,7 +22,7 @@ Hi👋, I’m currently a second-year PhD student at [the School of Data Science
 My work has been published in top-tier international AI conferences such as ICLR and ICML. I am driven to advance robotic intelligence toward offloading mundane, time-consuming human tasks to robots—such as household chores and information collection—so that humans can focus on more creative, meaningful, and high-impact activities.
 
 My research interest includes:
-- Robot Learning and Optimization in Embodied AI
+- Robot Learning and Optimization in Embodied AI ((e.g., morphology and control policy codesign, generalist policy, humanoid loco-manipulation)
 - [Inverse Constrained Reinforcement Learning](https://github.com/Jasonxu1225/Awesome-Constraint-Inference-in-RL) / Inverse Constraint Learning
 
 I'm always open to collaboration or a good discussion — feel free to contact me via Email or [WeChat](/images/Wechat_ID.jpg)!
