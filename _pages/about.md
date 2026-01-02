@@ -94,6 +94,8 @@ I'm always open to collaboration or a good discussion — feel free to contact m
 
 
 # 🏅 Honors and Awards
+- *2025.12* &nbsp; Duan Yong Ping Meritorious Research Award
+- *2025.12* &nbsp; Duan Yong Ping Travel Award
 - *2023.11* &nbsp; COSCO Shipping Scholarship of Shanghai Jiao Tong University (PG)
 - *2022 / 2023.11* &nbsp; Shanghai Jiao Tong University First-Class Graduate Academic Scholarship
 - *2020.12* &nbsp; COSCO Shipping Scholarship of Shanghai Jiao Tong University (UG)
