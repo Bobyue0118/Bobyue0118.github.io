@@ -105,7 +105,7 @@ I'm always open to collaboration or a good discussion — feel free to contact m
 
 # 📖 Educations
 - *2024.09 - (now)* &nbsp; The Chinese University of Hong Kong, Shenzhen, PhD in Computer Science, Advisor: Prof. [Guiliang Liu](https://guiliang.me/)
-- *2021.09 - 2024.03* &nbsp; Shanghai Jiao Tong University, M.Eng. in Automation (Recommended for Postgraduate Studies), Advisor: Prof. [Shibei Xue](https://automation.sjtu.edu.cn/SXue)
+- *2021.09 - 2024.03* &nbsp; Shanghai Jiao Tong University, M.Eng. in Automation (Recommended for Postgraduate Studies), Advisor: Prof. [Shibei Xue](https://sais.sjtu.edu.cn/faculty/xueshibei.html)
 - *2017.09 - 2021.06* &nbsp; Shanghai Jiao Tong University, B.Eng. in Automation (AI Direction)
 
 <!-- 
