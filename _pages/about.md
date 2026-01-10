@@ -114,9 +114,9 @@ I'm always open to collaboration or a good discussion — feel free to contact m
 -->
 
 # 👨‍🏫 Teaching
-- DDA2001 Introduction to Data Science: Teaching Assistant, Spring 2025
-- DDA4230 Reinforcement Learning, Leading Teaching Assistant, Fall 2025
-
+- DDA2001 Introduction to Data Science, TA, Spring 2025
+- DDA4230 Reinforcement Learning, Leading TA, Fall 2025
+- CSC 1004 Computational Laboratory Using Java, TA, Spring 2026
 
 # 🔍 Service
 - Conference Reviewer: AAAI, ICLR, ICML, ICRA
